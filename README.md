@@ -13,7 +13,10 @@ The Final Project for COMP370
 How do we make sure it's only NA articles??
 - when you make a request you can specify a value for 'country='
 I think this request parameter accepts a single value, so we can't have country=us&ca or wtv.
-Also, we're looking for north american news outlets, but should we exclude mexico? it'll be hard to analyze since it's in spanish.
+Also, we're looking for north american news outlets, but should we exclude mexico? it'll be hard to analyze since it's in spanish. (depending on the endpoint we use, we might be able to use the language= parameter, which would solve this problem.)
+
+we can use the newsapi-python module instead of going through the requests library, doesnt change much.
+aside: everyone should have a venv setup for the project.
 
 Keywords we are looking for:
 Taylor Swift
