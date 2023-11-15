@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hola"
+            },
+            "author": "hola.com",
+            "title": "Las pol\u00e9micas de Taylor Swift: de su enfrentamiento con Kanye West a su enemistad con Katy Perry",
+            "description": "A pesar de ser una de las cantantes m\u00e1s galardonadas de todos los tiempos, a la artista le persiguen las controversias",
+            "url": "https://www.hola.com/actualidad/20231026242470/taylor-swift-polemicas/",
+            "urlToImage": "https://images.hola.com/imagenes/actualidad/20231026242470/taylor-swift-polemicas/1-329-449/taylor-swift-getty2-t.jpg",
+            "publishedAt": "2023-10-26T12:23:22Z",
+            "content": "Cuando Taylor Swift irrumpi\u00f3 por primera vez en la escena musical, all\u00e1 por 2006, era una dulce adolescente cargada de sue\u00f1os. Pero a medida que su fama fue creciendo y lleg\u00f3 a convertirse en una de \u2026 [+9385 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pravda.sk"
+            },
+            "author": "Pravda",
+            "title": "Herec aj spev\u00e1k, mu\u017e, ktor\u00fd jej zlomil srdce aj tak\u00fd, s ktor\u00fdm zostali kamar\u00e1ti: Taylor Swift m\u00e1 pestr\u00fd zoznam l\u00e1sok a teraz... kone\u010dne \u0161portovca",
+            "description": "U\u017e \u017eiadne dohady a tajnosti oh\u013eadom nov\u00e9ho vz\u0165ahu spev\u00e1\u010dky Taylor Swiftovej nebud\u00fa po uplynulom v\u00edkende mo\u017en\u00e9.",
+            "url": "https://koktail.pravda.sk/hviezdne-kauzy/clanok/685127-herec-spevak-muzi-ktori-jej-zlomili-srdce-aj-ktorym-dala-kosom-taylor-swift-ma-pestry-zoznam-partnerov-a-teraz-konecne-sportovca/",
+            "urlToImage": "http://ipravda.sk/res/2023/10/12/thumbs/taylor-swift-clanokW.jpg",
+            "publishedAt": "2023-10-16T22:00:00Z",
+            "content": "U iadne dohady a tajnosti ohadom nov\u00e9ho vzahu spev\u00e1ky Taylor Swiftovej nebud\u00fa po uplynulom v\u00edkende mon\u00e9. Hviezda sa objavila za ruiky v uliciach New Yorku s nov\u00fdm muom svojho ivota. Hr\u00e1 americk\u00e9ho fu\u2026 [+2169 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": "Jo\u00e3o Bidu",
+            "title": "Ex-namorados de Taylor Swift: quais s\u00e3o os signos de cada um?",
+            "description": "Nesta jornada pelos signos dos ex-namorados de Taylor Swift, prepare-se para descobrir como a Astrologia influenciou os seus romances",
+            "url": "https://www.terra.com.br/vida-e-estilo/horoscopo/ex-namorados-de-taylor-swift-quais-sao-os-signos-de-cada-um,a5c4b240fef6fe86e7162a2b7e12148b4sodzdui.html",
+            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/11/10/2033085773-ex-namorados-de-taylor-swift.jpg",
+            "publishedAt": "2023-11-10T13:01:17Z",
+            "content": "Taylor Swift, a rainha da m\u00fasica pop e dos cora\u00e7\u00f5es partidos, seja na m\u00fasica ou nos relacionamentos, nunca deixa de nos surpreender. Por isso, nesta jornada pelos signos dos ex-namorados de Taylor Sw\u2026 [+3480 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Elite Daily"
+            },
+            "author": "Chelsea Jackson",
+            "title": "The Astro Compatibility Of Taylor Swift & Her Ex-Boyfriends",
+            "description": "An astrologer analyzes the birth charts for Taylor Swift, her exes (e.g. Matty Healy, Joe Alwyn, Harry Styles), and Travis Kelce and reveals their compatibility.",
+            "url": "https://www.elitedaily.com/relationships/taylor-swift-astrological-compatibility-ex-boyfriends",
+            "urlToImage": "https://imgix.bustle.com/uploads/image/2023/10/17/ed116816-cb05-48b9-adc5-6ac405781929-a64604cd-5ae0-4583-ba33-ccbf3e184f05-social-share.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+            "publishedAt": "2023-10-18T18:07:46Z",
+            "content": "If theres one thing Taylor Swifts dating history shows, its that shes open to relationships with all kinds of people. Actors, musicians, and most recently football players have managed to catch her e\u2026 [+10716 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Elite Daily"
+            },
+            "author": "Meguire Hennes",
+            "title": "The Taylor Swift Boyfriend Your Zodiac Sign Would Fall For",
+            "description": "No *mismatched star signs* here \u2014 one of Taylor Swift's boyfriends is extremely compatible with you, according to Astrologer Lisa Stardust.",
+            "url": "https://www.elitedaily.com/entertainment/taylor-swift-boyfriend-zodiac-sign-compatibility",
+            "urlToImage": null,
+            "publishedAt": "2023-10-31T12:01:25Z",
+            "content": "Taylor Swifts long list of ex-lovers may have your twin flame bruise\r\n on it. Though most Swifties are Team Traylor now that the Grammy winner is dating Kansas City Chiefs tight end Travis Kelce, onl\u2026 [+8959 chars]"
+        }
+    ]
+}

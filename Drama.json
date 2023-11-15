@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Kyndall Cunningham",
+            "title": "Taylor Swift\u2019s \u2018Bad Blood\u2019 Video Was Girlbossing at Its Pettiest",
+            "description": "Photo Illustration by The Daily Beast / Getty\r\nTo honor Taylor Swift\u2019s latest rerecording, we\u2019re celebrating 1989 (Taylor\u2019s Version) Week at The Daily Beast\u2019s Obsessed. That means we\u2019re throwing it back to 2014, to relive everything that Taylor\u2014and the rest o\u2026",
+            "url": "https://www.thedailybeast.com/obsessed/bad-blood-the-beef-behind-taylor-swifts-best-most-dramatic-video",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1698272387/1989-Cunningham-Taylor-Swift-Bad-Blood-tease_teyvrf",
+            "publishedAt": "2023-10-25T23:03:17Z",
+            "content": "To honor Taylor Swifts latest rerecording, were celebrating 1989 (Taylors Version) Week at The Daily Beasts Obsessed. That means were throwing it back to 2014, to relive everything that Taylorand the\u2026 [+6895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hola"
+            },
+            "author": "hola.com",
+            "title": "Las pol\u00e9micas de Taylor Swift: de su enfrentamiento con Kanye West a su enemistad con Katy Perry",
+            "description": "A pesar de ser una de las cantantes m\u00e1s galardonadas de todos los tiempos, a la artista le persiguen las controversias",
+            "url": "https://www.hola.com/actualidad/20231026242470/taylor-swift-polemicas/",
+            "urlToImage": "https://images.hola.com/imagenes/actualidad/20231026242470/taylor-swift-polemicas/1-329-449/taylor-swift-getty2-t.jpg",
+            "publishedAt": "2023-10-26T12:23:22Z",
+            "content": "Cuando Taylor Swift irrumpi\u00f3 por primera vez en la escena musical, all\u00e1 por 2006, era una dulce adolescente cargada de sue\u00f1os. Pero a medida que su fama fue creciendo y lleg\u00f3 a convertirse en una de \u2026 [+9385 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Elite Daily"
+            },
+            "author": "Adrianne Reece",
+            "title": "How Taylor Swift Feels About Each \"Bad Blood\" Video Star Now",
+            "description": "In honor of '1989\u2019s re-release, here's an investigation into where Swift stands with each member of her \u201cBad Blood\u201d posse in 2023.",
+            "url": "https://www.elitedaily.com/entertainment/taylor-swift-bad-blood-video-relationships",
+            "urlToImage": "https://imgix.bustle.com/uploads/image/2023/10/23/b9e79e2d-6149-4a6f-8e8e-f75673be8c2c-tswift_badbloodartboard-1.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+            "publishedAt": "2023-10-27T17:44:20Z",
+            "content": "Welcome to the 1989-verse. Theres an undeniable allure to Taylor Swifts fifth album, which was re-released on Oct. 27. Before its original release in 2014, Swift dominated the country-pop genre with \u2026 [+16066 chars]"
+        }
+    ]
+}
