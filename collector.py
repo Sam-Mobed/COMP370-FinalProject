@@ -32,7 +32,7 @@ def get_APIKEY():
 
 # make sure you surround phrases with ""
 # i'll also include the topic column for the saved data, but we'll probably have to change its values later
-def fetch_latest_news(api_key, news_keywords, topic):
+def fetch_latest_news(api_key, news_keywords, topic, page_num):
 
     current_date = datetime.date.today()
     lookback = datetime.date.today() - datetime.timedelta(31)
@@ -50,7 +50,8 @@ def fetch_latest_news(api_key, news_keywords, topic):
 
     #query = f'{query_string}q={edited_keyword}&sortBy=relevancy&excludeDomains=*.uk&language=en&from={str(lookback)}&to={str(current_date)}&apiKey={api_key}'
     #three changes I made, I used OR to join keywords, I set language=en and sorted by relevancy,
-    query = f'{query_string}q={edited_keyword}&sortBy=relevancy&excludeDomains=*.uk,*.fr,*.de,*.es,*.ru&language=en&from={str(lookback)}&to={str(current_date)}&apiKey={api_key}'
+    #query = f'{query_string}q={edited_keyword}&sortBy=relevancy&excludeDomains=*.uk,*.fr,*.de,*.es,*.ru&language=en&from={str(lookback)}&to={str(current_date)}&apiKey={api_key}'
+    query = f'{query_string}q={edited_keyword}&sortBy=relevancy&excludeDomains=*.uk,*.fr,*.de,*.es,*.ru&page={page_num}&language=en&from={str(lookback)}&to={str(current_date)}&apiKey={api_key}'
     '''
     the media company says that they are especially concerned with North American coverage. this doesn't mean that they ONLY want north american coverage,
     just mostly. But what I can do is either only include NA coverage, or all english coverage.
@@ -63,7 +64,7 @@ def fetch_latest_news(api_key, news_keywords, topic):
     response = response.json()
 
     #return response
-    with open(f"{topic}.json", "w") as fp:
+    with open(f"{topic}_{page_num}.json", "w") as fp:
         json.dump(response, fp, indent=4)
     
 
@@ -108,7 +109,8 @@ if __name__ == "__main__":
     research_list = [(taylor_swift_eras_tour, "Eras_Tour1"),(taylor_swift_relationships, "Relationships1")]
 
     for research_tuple in research_list:
-        fetch_latest_news(key, research_tuple[0], research_tuple[1])
+        for i in range(1,6):
+            fetch_latest_news(key, research_tuple[0], research_tuple[1], i)
 
     '''
     - We haven't completely limited our search to North America. But we made sure that the articles are in English, the main language spoken in Canada and in the US,
@@ -118,4 +120,7 @@ if __name__ == "__main__":
     - For sampling, we used the  sortBy= parameter to get the most relevant stuff, and then did systemic sampling by ID. (adding them one by one to our final csv/tsv file).
     - the JSON responses will have different sizes, we'll have to make sure the number of articles selected from each is proportionate to their size.
     I don't see how picking randomly from each JSON will increase the representativeness of our sample
+    - sometimes, the article is not about taylor swift, but it seems like she gets mentioned in one of the ads and the APi still counts it as mentioning Taylor.
+    - sometimes, Taylor isn't directly mentioned in title, content or description. click on the link to see if she's mentioned in the whole article (ctrl+F), (apparently this is unnecessary)
+    - For articles that are completely unrelated to Taylor Swift, highlight them in red, and we will exclude them from the Final Dataset.
     '''
