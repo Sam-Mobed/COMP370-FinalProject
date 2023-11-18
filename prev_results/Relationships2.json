@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 6839,
+    "totalResults": 10034,
     "articles": [
         {
             "source": {
@@ -147,6 +147,32 @@
         },
         {
             "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Petrana Radulovic",
+            "title": "Why do people think Taylor Swift secretly wrote Henry Cavill\u2019s new spy movie?",
+            "description": "Argylle stars Henry Cavill and Dua Lipa and is based on a book by author Elly Conway \u2014 who Taylor Swift fans are convinced is the pop superstar herself.",
+            "url": "https://www.polygon.com/23929262/taylor-swift-elly-conway-argylle-book-dua-lipa-henry-cavill",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/U44rxQX3xjZo7eM5HSCxELFFNvw=/0x243:4800x2756/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25025729/1677606107.jpg",
+            "publishedAt": "2023-10-24T14:00:00Z",
+            "content": "If you buy something from a Polygon link, Vox Media may earn a commission. See our ethics statement.Argylle is an upcoming spy movie from Kingsman director Matthew Vaughn, starring Bryce Dallas Howar\u2026 [+7598 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "Curtis M. Wong",
+            "title": "Harry Styles Divides Fans By Debuting A Newly Shaved Head",
+            "description": "\u201cRest in peace beautiful curls we will never forget you,\u201d\u00a0one TikTok user wrote after the three-time Grammy winner unveiled his dramatic new look.",
+            "url": "https://www.huffpost.com/entry/harry-styles-shaved-head_n_654e9788e4b09c9500aa34ab",
+            "urlToImage": "https://img.huffingtonpost.com/asset/654e9b66230000e271ea5a83.jpeg?cache=dL2bzemsQN&ops=1200_630",
+            "publishedAt": "2023-11-10T23:14:31Z",
+            "content": "Harry Styles is using his time off the road to revamp his signature look. \r\nThe three-time Grammy winner unveiled a brand-new buzz cut when he and rumored girlfriend Taylor Russell attended one of U2\u2026 [+1625 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Lifehacker.com"
             },
@@ -170,6 +196,45 @@
             "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/taylor-swift.jpg?fit=1200%2C798&ssl=1",
             "publishedAt": "2023-11-06T23:30:56Z",
             "content": "Hank Kunneman is employed as a MAGA pastor. It's not bad work if you can stomach spouting uncreative and discredited conspiracy theories to dimwitted, credulous, and perpetually enraged Trump worship\u2026 [+1089 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Elisabeth Garber-Paul",
+            "title": "Why Are People So Obsessed With Taylor Swift and Travis Kelce? Rolling Stone Staff Has Theories",
+            "description": "Rolling Stone staffers offer their own theories as to why everyone is so obsessed with Taylor Swift and Travis Kelce's relationship.",
+            "url": "https://www.rollingstone.com/culture/culture-lists/taylor-swift-travis-kelce-relationship-mania-rolling-stone-staff-theories-1234879881/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/11/taylor-swift-travis-kelce-rs-staff.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2023-11-16T19:33:48Z",
+            "content": "Taylor Swift built her illustrious career writing intimate songs about her life which often centered around romantic love and its maddening journey. It\u2019s no wonder, then, that Swifties (especially th\u2026 [+5397 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Albert Sanchis",
+            "title": "El fen\u00f3meno Taylor Swift es tan grande que un pa\u00eds quiere aprovecharse disimuladamente de \u00e9l: Israel",
+            "description": "Todo lo que rodea a Taylor Swift se ha convertido en un negocio redondo. La artista, \u00a0que empez\u00f3 su carrera en la m\u00fasica country en 2006 es ahora la cantante m\u00e1s aclamada de Estados Unidos en la actualidad, con 12 premios Grammy, 40 American Music Awards y do\u2026",
+            "url": "https://www.xataka.com/magnet/fenomeno-taylor-swift-grande-que-pais-quiere-aprovecharse-disimuladamente-israel",
+            "urlToImage": "https://i.blogs.es/04d3df/taylor/840_560.jpeg",
+            "publishedAt": "2023-10-20T16:30:37Z",
+            "content": "Todo lo que rodea a Taylor Swift se ha convertido en un negocio redondo. La artista, \u00a0que empez\u00f3 su carrera en la m\u00fasica country en 2006 es ahora la cantante m\u00e1s aclamada de Estados Unidos en la actu\u2026 [+4181 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sarah Jackson",
+            "title": "Billionaire hedge fund boss Ken Griffin pays for 1,200 staff and family members to visit Disney Tokyo and hear performances by Maroon 5 and Calvin Harris",
+            "description": "Citadel founder Ken Griffin, worth $35.4 billion, treated roughly 10,000 staff and family members to a Disney World trip and Coldplay concert in 2022.",
+            "url": "https://www.businessinsider.com/citadel-ken-griffin-pays-for-1200-staff-visit-disney-tokyo-2023-10",
+            "urlToImage": "https://i.insider.com/638d1e4450961b001949e5c9?width=1200&format=jpeg",
+            "publishedAt": "2023-10-30T21:33:11Z",
+            "content": "Roughly 1,200 Citadel and Citadel Securities employees and family members attended a celebration that included a Disney Tokyo trip and musical performances by Maroon 5 and Calvin Harris.Citadel; Kent\u2026 [+2153 chars]"
         },
         {
             "source": {
@@ -212,6 +277,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Aglaia Berlutti",
+            "title": "5 contenidos musicales para ver en Disney+ si te gust\u00f3 \u2018Taylor Swift: The Eras\u00a0Tour\u2019",
+            "description": "La pel\u00edcula Taylor Swift: The Eras Tour se ha convertido en uno de los grandes \u00e9xitos del a\u00f1o 2023. Para sorpresa de la industria cinematogr\u00e1fica, la grabaci\u00f3n de uno de los conciertos de la gira de la artista, cautiv\u00f3 incluso a los que no son sus seguidores.\u2026",
+            "url": "http://hipertextual.com/2023/10/disney-taylor-swift-the-eras-tour",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/06/taylor-swift-001-scaled.jpg",
+            "publishedAt": "2023-10-20T14:24:40Z",
+            "content": "La pel\u00edculaTaylor Swift: The Eras Tour se ha convertido en uno de los grandes \u00e9xitos del a\u00f1o 2023. Para sorpresa de la industria cinematogr\u00e1fica, la grabaci\u00f3n de uno de los conciertos de la gira de l\u2026 [+7883 chars]"
+        },
+        {
+            "source": {
                 "id": "bleacher-report",
                 "name": "Bleacher Report"
             },
@@ -222,6 +300,19 @@
             "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1700078711/jlumw88suggquldrbdpw.jpg",
             "publishedAt": "2023-11-15T20:19:58Z",
             "content": "Alex Grimm/Getty Images\r\nTravis Kelce and Taylor Swift appear to be taking the next step in their relationship.\r\nThe parents of the Chiefs tight end and world-renowned singer/songwriter are expected \u2026 [+1704 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Tom\u00e1s Mier",
+            "title": "Swifties Agree: You \u2018Can\u2019t Help but Root\u2019 for Taylor Swift and Travis Kelce",
+            "description": "\"We're seeing the romance unfold in real time,\" explains PR expert Beth Booker. \"I think that that's why everyone is so on board with it\"",
+            "url": "https://www.rollingstone.com/music/music-features/taylor-swift-travis-kelce-dating-fans-react-explain-phenomenon-1234878487/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/11/fans-taylor-travis.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
+            "publishedAt": "2023-11-15T01:24:38Z",
+            "content": "When TikTok star (and unabashed Swiftie) Chris Olsen walked into Argentina\u2019s Estadio Monumental to watch Taylor Swift\u2018s Eras tour, he immediately felt a \u201cpalpable energy\u201d from the crowd after Travis \u2026 [+4489 chars]"
         },
         {
             "source": {
@@ -277,6 +368,19 @@
         },
         {
             "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Natasha Jokic",
+            "title": "Harry Styles Debuted A New Bald Look Alongside His Rumored Girlfriend Taylor Russell",
+            "description": "\"Harry Styles but no hair to style.\"View Entire Post \u203a",
+            "url": "https://www.buzzfeed.com/natashajokic1/harry-styles-shaved-head",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-11/10/15/asset/51b5ee716a39/sub-buzz-783-1699630257-1.jpg?crop=3300:1727;17,199%26downsize=1250:*",
+            "publishedAt": "2023-11-10T15:53:39Z",
+            "content": "delete this please there are a lot of people asking you to delete this, please delete it im begging you there are people passing out, there are people crying delete it please delete please there are \u2026 [+98 chars]"
+        },
+        {
+            "source": {
                 "id": "bleacher-report",
                 "name": "Bleacher Report"
             },
@@ -303,6 +407,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Larisha Paul",
+            "title": "A Swiftie\u2019s Halloween Costume Joked That Taylor Swift Put Travis Kelce on the Map \u2014 He Loved It",
+            "description": "\"You get a round of applause for that one. I enjoyed that,\" the Kansas City Chief's player said after watching a TikTok one fan made showing off her clever costume",
+            "url": "https://www.rollingstone.com/music/music-news/taylor-swift-and-travis-kelce-halloween-costumes-reaction-1234867935/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/11/Travis-Kelce-Reacts-to-Swiftie-Costumes-Travis-Kelce-Reacts-to-Swiftie-Costumes.jpg?crop=0px%2C7px%2C1800px%2C1014px&resize=1600%2C900",
+            "publishedAt": "2023-11-01T16:19:38Z",
+            "content": "Swifties have rarely ever spared Taylor Swift\u2018s boyfriends from a solid Comedy Central-level roast. They\u2019ve gone after Harry Styles\u2019 driving skills (or lack thereof), Taylor Lautner popping up to do \u2026 [+1678 chars]"
+        },
+        {
+            "source": {
                 "id": "time",
                 "name": "Time"
             },
@@ -317,6 +434,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Peter Sheridan",
+            "title": "King Charles to abdicate, and Jim Jordan's sex scandal, in last week's dubious tabloids",
+            "description": "'National Enquirer'\n\n\n\nThere must be scant news around this week, if the best the 'Enquirer' can manage is \"Hollywood's Most Eligible Bachelors!\" \u2013 a list of Hollywood hunks (with \"more studs inside!\") including Leonardo DiCaprio, Bradley Cooper, Harry Styles\u2026",
+            "url": "https://boingboing.net/2023/11/08/king-charles-to-abdicate-and-jim-jordans-sex-scandal-in-last-weeks-dubious-tabloids.html",
+            "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/tabloids-charles.jpg?fit=1200%2C745&ssl=1",
+            "publishedAt": "2023-11-08T15:37:43Z",
+            "content": "There must be scant news around this week, if the best the 'Enquirer' can manage is \"Hollywood's Most Eligible Bachelors!\" \u2013 a list of Hollywood hunks (with \"more studs inside!\") including Leonardo D\u2026 [+6780 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Cracked.com"
             },
             "author": "Keegan Kelly",
@@ -326,6 +456,32 @@
             "urlToImage": "https://s3.crackedcdn.com/phpimages/article/4/4/5/944445.jpg",
             "publishedAt": "2023-10-17T21:30:00Z",
             "content": "Lorne Michaels\u00a0has kept a strict no improvisation policy on\u00a0Saturday Night Live for the past half century ensuring that there will be no surprises between the final dress rehearsal and showtime. Then\u2026 [+1946 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Glamorosos o escandalosos -- T\u00fa decides",
+            "description": "Travis Kelce est\u00e1 lo suficientemente enamorado como para volar miles de kil\u00f3metros para ver a su chica, y Harry Styles ya no es Harry. As\u00ed que tenemos que preguntarles ...",
+            "url": "https://www.tmz.com/2023/11/11/glamorosos-o-escandalosos-tu-decides/",
+            "urlToImage": "https://imagez.tmz.com/image/ac/16by9/2023/11/10/acb5351d884e4684b48f05d89e355211_xl.jpg",
+            "publishedAt": "2023-11-11T08:45:52Z",
+            "content": "Travis Kelce est\u00e1 lo suficientemente enamorado como para volar miles de kil\u00f3metros para ver a su chica, y Harry Styles ya no es Harry. As\u00ed que tenemos que preguntarles ..."
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Nora Dominick",
+            "title": "\"Loki\" Season 2 Ended With One Of The Most Beautiful, But Devastating, Episodes \u2014 Here's How Everyone's Reacting",
+            "description": "Just when I'm out (not really), the Marvel Cinematic Universe knows how to pull me back in (with a devastating Tom Hiddleston performance).View Entire Post \u203a",
+            "url": "https://www.buzzfeed.com/noradominick/loki-season-2-finale-best-tweets",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-11/10/16/enhanced/51b5ee716a39/original-1028-1699634877-2.jpg?crop=1200:628;0,0%26downsize=1250:*",
+            "publishedAt": "2023-11-10T17:00:58Z",
+            "content": "This is why I refuse to believe this is the last were seeing of Loki.\r\nHe is the only one with the knowledge and power to defeat Kang.\r\nHe will be essential in the upcoming Avengers movies. pic.twitt\u2026 [+88 chars]"
         },
         {
             "source": {
@@ -368,19 +524,6 @@
         },
         {
             "source": {
-                "id": "polygon",
-                "name": "Polygon"
-            },
-            "author": "Petrana Radulovic",
-            "title": "Why do people think Taylor Swift secretly wrote Henry Cavill\u2019s new spy movie?",
-            "description": "Argylle stars Henry Cavill and Dua Lipa and is based on a book by author Elly Conway \u2014 who Taylor Swift fans are convinced is the pop superstar herself.",
-            "url": "https://www.polygon.com/23929262/taylor-swift-elly-conway-argylle-book-dua-lipa-henry-cavill",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/U44rxQX3xjZo7eM5HSCxELFFNvw=/0x243:4800x2756/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25025729/1677606107.jpg",
-            "publishedAt": "2023-10-24T14:00:00Z",
-            "content": "If you buy something from a Polygon link, Vox Media may earn a commission. See our ethics statement.Argylle is an upcoming spy movie from Kingsman director Matthew Vaughn, starring Bryce Dallas Howar\u2026 [+7598 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "HuffPost"
             },
@@ -391,6 +534,32 @@
             "urlToImage": "https://img.huffingtonpost.com/asset/654e914b2200004717cef563.jpeg?cache=Cc947bewi6&ops=1200_630",
             "publishedAt": "2023-11-10T22:14:39Z",
             "content": "Taylor Swifts done it again.\r\nThe Midnights singer has set a new Grammy record for the most nominations for any person in the Song of the Year category.\r\nSwifts hit single Anti-Hero was shortlisted f\u2026 [+2321 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Gonzalo Franco",
+            "title": "Loki tiene nuevos poderes: \u00bfes el personaje m\u00e1s poderoso del Universo Cinematogr\u00e1fico de Marvel?",
+            "description": "La segunda temporada de Loki sigue convenciendo a los fans del Dios del Enga\u00f1o. El personaje de Tom Hiddleston cumple ya m\u00e1s de una d\u00e9cada en Marvel y desde el primer d\u00eda es uno de los favoritos del p\u00fablico. De villano a h\u00e9roe, el hijo peque\u00f1o de Od\u00edn se ha g\u2026",
+            "url": "http://hipertextual.com/2023/11/marvel-loki-nuevos-poderes",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/11/Loki.jpg",
+            "publishedAt": "2023-11-03T21:39:00Z",
+            "content": "La segunda temporada de Loki sigue convenciendo a los fans del Dios del Enga\u00f1o. El personaje de Tom Hiddleston cumple ya m\u00e1s de una d\u00e9cada en Marvel y desde el primer d\u00eda es uno de los favoritos del \u2026 [+5677 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Gonzalo Franco",
+            "title": "El impactante final de \u2018Loki\u2019 2\u00d704, explicado: \u00bfqui\u00e9n muere y c\u00f3mo afecta al Universo Marvel?",
+            "description": "Con su cuarto episodio, la segunda temporada de Loki ha dejado uno de los mayores cliffhangers de todo el Universo Cinematogr\u00e1fico de Marvel. La serie protagonizada por Tom Hiddleston tan solo resta de dos episodios para poner su punto y final. Y, en su trama\u2026",
+            "url": "http://hipertextual.com/2023/10/final-loki-2x04-explicado-quien-muere-universo-marvel",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/10/1-2.jpg",
+            "publishedAt": "2023-10-27T15:38:09Z",
+            "content": "Con su cuarto episodio, la segunda temporada de Lokiha dejado uno de los mayores cliffhangers de todo el Universo Cinematogr\u00e1fico de Marvel. La serie protagonizada por Tom Hiddleston tan solo resta d\u2026 [+6732 chars]"
         },
         {
             "source": {
@@ -421,19 +590,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Elisabeth Garber-Paul",
-            "title": "Why Are People So Obsessed With Taylor Swift and Travis Kelce? Rolling Stone Staff Has Theories",
-            "description": "Rolling Stone staffers offer their own theories as to why everyone is so obsessed with Taylor Swift and Travis Kelce's relationship.",
-            "url": "https://www.rollingstone.com/culture/culture-lists/taylor-swift-travis-kelce-relationship-mania-rolling-stone-staff-theories-1234879881/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/11/taylor-swift-travis-kelce-rs-staff.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2023-11-16T19:33:48Z",
-            "content": "Taylor Swift built her illustrious career writing intimate songs about her life which often centered around romantic love and its maddening journey. It\u2019s no wonder, then, that Swifties (especially th\u2026 [+5397 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "TMZ"
             },
             "author": "TMZ Staff",
@@ -460,6 +616,58 @@
         {
             "source": {
                 "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Julie Hay",
+            "title": "Loki\u00a0: Tom Hiddleston en a-t-il vraiment fini avec Marvel\u00a0?",
+            "description": "Apr\u00e8s des d\u00e9clarations plut\u00f4t surprenantes au sujet de son personnage, Tom Hiddleston revient sur le caract\u00e8re d\u00e9finitif de ses adieux au Marvel Cinematic Universe. \nLoki\u00a0: Tom Hiddleston en a-t-il vraiment fini avec Marvel\u00a0?",
+            "url": "https://www.journaldugeek.com/2023/11/14/loki-tom-hiddleston-en-a-t-il-vraiment-fini-avec-marvel/",
+            "urlToImage": "https://www.journaldugeek.com/app/uploads/2023/11/loki-saison-2-tom-hiddleston-marvel.jpg",
+            "publishedAt": "2023-11-14T13:00:36Z",
+            "content": "Vendredi dernier marquait le final de la deuxi\u00e8me saison de Loki, mais aussi plus largement de la s\u00e9rie lanc\u00e9e en 2021. D\u00e8s le d\u00e9part, Marvel ambitionnait de produire deux salves d\u2019\u00e9pisodes sur les t\u2026 [+3528 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: News -",
+            "title": "American Football: Super Bowl: NFL-Boss f\u00e4nde Show mit Swift unglaublich",
+            "description": "Hier finden Sie Informationen zu dem Thema \u201eAmerican Football\u201c. Lesen Sie jetzt \u201eSuper Bowl: NFL-Boss f\u00e4nde Show mit Swift unglaublich\u201c.",
+            "url": "https://www.zeit.de/news/2023-11/05/super-bowl-nfl-boss-faende-show-mit-swift-unglaublich",
+            "urlToImage": "https://img.zeit.de/news/2023-11/05/super-bowl-nfl-boss-faende-show-mit-swift-unglaublich-image-group/wide__1300x731",
+            "publishedAt": "2023-11-05T07:25:55Z",
+            "content": "NFL-Boss Roger Goodell hat sich als gro\u00dfer Fan von Musikerin Taylor Swift geoutet und kann sich einen Auftritt der Pop-S\u00e4ngerin beim Super Bowl durchaus vorstellen. \u00abTaylor Swift w\u00e4re ein unglaublich\u2026 [+2292 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Snopes.com"
+            },
+            "author": "Izz Scott LaMagdeleine",
+            "title": "Fact Check: Joe Alwyn Furiously Reacts to Taylor Swift Dating Travis Kelce, as Videos Claim?",
+            "description": "Videos that surfaced in November 2023 accurately reported that actor Joe Alwyn \"furiously\" reacted to singer Taylor Swift dating football player Travis Kelce.",
+            "url": "https://www.snopes.com/fact-check/alwyn-furious-swift-kelce/",
+            "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/11/joe_alwyn_celeb_goss_claim.jpg",
+            "publishedAt": "2023-11-14T21:45:00Z",
+            "content": "On Nov. 13, 2023, a YouTube video claimed that actor Joe Alwyn had \"furiously\" reacted to singer Taylor Swift dating Kansas City Chiefs football player Travis Kelce without any evidence to corroborat\u2026 [+2388 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: News -",
+            "title": "American Football: NFL-Vollmer: Swift-Ger\u00fcchte lenken nicht vom Sport ab",
+            "description": "Hier finden Sie Informationen zu dem Thema \u201eAmerican Football\u201c. Lesen Sie jetzt \u201eNFL-Vollmer: Swift-Ger\u00fcchte lenken nicht vom Sport ab\u201c.",
+            "url": "https://www.zeit.de/news/2023-11/05/nfl-vollmer-swift-geruechte-lenken-nicht-vom-sport-ab",
+            "urlToImage": "https://img.zeit.de/news/2023-11/05/nfl-vollmer-swift-geruechte-lenken-nicht-vom-sport-ab-image-group/wide__1300x731",
+            "publishedAt": "2023-11-05T07:16:20Z",
+            "content": "Die Ger\u00fcchte rund um Taylor Swift sind laut des zweimaligen Super-Bowl-Gewinners Sebastian Vollmer f\u00fcr die NFL-Spiele in Frankfurt keine Ablenkung vom Sportlichen. \u00abWir sind im Entertainment-Business\u2026 [+1897 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Stereogum"
             },
             "author": "James Rettig",
@@ -469,6 +677,19 @@
             "urlToImage": "https://static.stereogum.com/uploads/2023/11/GettyImages-1474271147-1699795833.jpg",
             "publishedAt": "2023-11-12T13:33:42Z",
             "content": "Taylor Swift kicked off the South American leg of her Eras Tour this week, and at her first show in Buenos Aires, she played \u201cThe Very First Night\u201d and \u201cLabyrinth\u201d live for the first time. That was o\u2026 [+726 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: News -",
+            "title": "American Football-Star: Kelce zu Beziehung mit Swift: Privatleben privat halten",
+            "description": "Hier finden Sie Informationen zu dem Thema \u201eAmerican Football-Star\u201c. Lesen Sie jetzt \u201eKelce zu Beziehung mit Swift: Privatleben privat halten\u201c.",
+            "url": "https://www.zeit.de/news/2023-11/03/kelce-zu-beziehung-mit-swift-privatleben-privat-halten",
+            "urlToImage": "https://img.zeit.de/news/2023-11/03/kelce-zu-beziehung-mit-swift-privatleben-privat-halten-image-group/wide__1300x731",
+            "publishedAt": "2023-11-03T17:22:05Z",
+            "content": "Football-Star Travis Kelce will eine mutma\u00dfliche Liebesbeziehung mit Pop-Gigantin Taylor Swift nicht \u00f6ffentlich best\u00e4tigen. Als der Spieler der Kansas City Chiefs am Freitag mit dieser Frage konfront\u2026 [+1562 chars]"
         },
         {
             "source": {
@@ -482,6 +703,19 @@
             "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAxNjI4NDUwODkxNTA3MzQz/rob-gronkowski.jpg",
             "publishedAt": "2023-10-26T13:38:26Z",
             "content": "Count Rob Gronkowski among those who feel that NFL telecasts are showing too many Taylor Swift reaction shots during\u00a0Chiefs\u00a0games. The former star tight end expressed what is sure to be an unpopular \u2026 [+1762 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: News -",
+            "title": "NFL-Spiel in Frankfurt: Show und Glanz: Taylor Swift als Symbol f\u00fcr NFL-Raumschiff",
+            "description": "Hier finden Sie Informationen zu dem Thema \u201eNFL-Spiel in Frankfurt\u201c. Lesen Sie jetzt \u201eShow und Glanz: Taylor Swift als Symbol f\u00fcr NFL-Raumschiff\u201c.",
+            "url": "https://www.zeit.de/news/2023-11/03/show-und-glanz-taylor-swift-als-symbol-fuer-nfl-raumschiff",
+            "urlToImage": "https://img.zeit.de/news/2023-11/03/show-und-glanz-taylor-swift-als-symbol-fuer-nfl-raumschiff-image-group/wide__1300x731",
+            "publishedAt": "2023-11-03T09:47:05Z",
+            "content": "Dass Football-Superstar Patrick Mahomes ohne seine Frau nach Frankfurt reist, blieb vor dem Spektakel der NFL in Deutschland eine Randnotiz. Denn der Quarterback der Kansas City Chiefs ist ja nicht m\u2026 [+4942 chars]"
         },
         {
             "source": {
@@ -499,28 +733,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Rolling Stone"
+                "name": "DIE WELT"
             },
-            "author": "Tom\u00e1s Mier",
-            "title": "Swifties Agree: You \u2018Can\u2019t Help but Root\u2019 for Taylor Swift and Travis Kelce",
-            "description": "\"We're seeing the romance unfold in real time,\" explains PR expert Beth Booker. \"I think that that's why everyone is so on board with it\"",
-            "url": "https://www.rollingstone.com/music/music-features/taylor-swift-travis-kelce-dating-fans-react-explain-phenomenon-1234878487/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/11/fans-taylor-travis.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
-            "publishedAt": "2023-11-15T01:24:38Z",
-            "content": "When TikTok star (and unabashed Swiftie) Chris Olsen walked into Argentina\u2019s Estadio Monumental to watch Taylor Swift\u2018s Eras tour, he immediately felt a \u201cpalpable energy\u201d from the crowd after Travis \u2026 [+4489 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The A.V. Club"
-            },
-            "author": "Emma Keates",
-            "title": "Drake shouts out Taylor Swift on surprise release",
-            "description": "Well, it looks like Drake\u2019s tummy isn\u2019t hurting so much anymore. Just weeks after announcing he\u2019d be taking an extended break from music to deal with some health complications\u2014specifically the fact that he\u2019d been having \u201cthe craziest problems for years with [\u2026",
-            "url": "https://www.avclub.com/drake-taylor-swift-scary-hours-3-surprise-drop-1851030961",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b065e85055772b161302e128593d91af.jpg",
-            "publishedAt": "2023-11-17T15:44:09Z",
-            "content": "Well, it looks like Drakes tummy isnt hurting so much anymore. Just weeks after announcing hed be taking an extended break from music to deal with some health complicationsspecifically the fact that \u2026 [+2438 chars]"
+            "author": "WELT",
+            "title": "Der Taylor-Swift-Effekt",
+            "description": "Seit Saisonbeginn ist Taylor Swift Edelfan der National Football League (NFL). Der Popstar soll Travis Kelce von den Kansas City Chiefs daten. Die beiden genie\u00dfen die Spekulationen um eine m\u00f6gliche Beziehung. Dabei profitiert nicht nur Kelce vom Swift-Effekt.",
+            "url": "https://www.welt.de/sport/article248041832/NFL-Taylor-Swift-und-Travis-Kelce-brechen-alle-Rekorde.html",
+            "urlToImage": "https://img.welt.de/img/sport/mobile248045200/2011358787-ci16x9-w1200/Denver-Broncos-v-Kansas-City-Chiefs.jpg",
+            "publishedAt": "2023-10-17T14:44:30Z",
+            "content": "K\u00f6nnte sich die amerikanische Klatschpresse eine Schlagzeile w\u00fcnschen, sie lautete wohl: Popstar liebt Super-Bowl-Champion. Nun scheint der Traum in Erf\u00fcllung zu gehen. Taylor Swift und Travis Kelce \u2026 [+5777 chars]"
         },
         {
             "source": {
@@ -547,6 +768,58 @@
             "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-10/30/19/enhanced/61cb734033b8/original-419-1698694060-2.jpg?crop=1245:651;4,15%26downsize=1250:*",
             "publishedAt": "2023-10-30T20:25:23Z",
             "content": "Witnessed this particular scene in the cinema where a man a few seats down actually farted in terror, which ruined the film for my friend &amp; I who basically wept with silent laughter for the rest \u2026 [+69 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ComingSoon.net"
+            },
+            "author": "Paul Tamburro",
+            "title": "Is Taylor Swift Engaged to Travis Kelce? 2023 Engagement Rumors Explained",
+            "description": "Taylor Swift and Travis Kelce\u2019s relationship has been making waves this year, with the \u2018pair \u2018Shake It Off\u2019 singer and Kansas City Chiefs player inevitably becoming one of the most talked-about couples in the celebrity world. As a result, many are wondering: \u2026",
+            "url": "https://www.comingsoon.net/guides/news/1403314-taylor-swift-engaged-travis-kelce-2023-married",
+            "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/taylor-swift-travis-kelce-engaged.jpg?resize=1200,630",
+            "publishedAt": "2023-11-15T14:57:41Z",
+            "content": "Taylor Swift and Travis Kelces relationship has been making waves this year, with the pair Shake It Off singer and Kansas City Chiefs player inevitably becoming one of the most talked-about couples i\u2026 [+1837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Faz.net"
+            },
+            "author": "Daniel Meuren",
+            "title": "Sportpresseball: Kommt Taylor Swift auch noch in die Alte Oper?",
+            "description": "In den vergangenen Tagen gab es fast nur eine Frage in Frankfurt: Kommt Taylor Swift zum NFL-Spiel zwischen den Kansas City Chiefs und den Miami Dolphins? Nun soll sie wirklich in der Stadt sein \u2013 behauptet zumindest eine Influencerin.",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/kommt-taylor-swift-auch-noch-in-die-alte-oper-19291561.html",
+            "urlToImage": "https://media1.faz.net/ppmedia/aktuell/2829730355/1.9291593/facebook_teaser/die-alte-oper-im-regen-taylor.jpg",
+            "publishedAt": "2023-11-04T20:27:46Z",
+            "content": "Einer der ersten, der auf dem Roten Teppich des Sportpresseballs in der Alten Oper die Frage aller Fragen in diesen Frankfurter NFL-Tagen gestellt hat, war Volker Bouffier. K\u00f6nnen Sie mir sagen, ob T\u2026 [+2442 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Faz.net"
+            },
+            "author": "Daniel Meuren",
+            "title": "Sportpresseball: Kommt Taylor Swift auch noch in die Alte Oper?",
+            "description": "In den vergangenen Tagen gab es fast nur eine Frage in Frankfurt: Kommt Taylor Swift zum NFL-Spiel am Sonntag zwischen den Kansas City Chiefs und den Miami Dolphins? Nun soll sie wirklich in der Stadt sein \u2013 behauptet zumindest eine Influencerin.",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/sportpresseball-kommt-taylor-swift-auch-noch-in-die-alte-oper-19291561.html",
+            "urlToImage": "https://media1.faz.net/ppmedia/aktuell/2829730355/1.9291593/facebook_teaser/die-alte-oper-im-regen-taylor.jpg",
+            "publishedAt": "2023-11-04T20:27:46Z",
+            "content": "Einer der ersten, der auf dem Roten Teppich des Sportpresseballs in der Alten Oper die Frage aller Fragen in diesen Frankfurter NFL-Tagen gestellt hat, war Volker Bouffier. K\u00f6nnen Sie mir sagen, ob T\u2026 [+2460 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "John Tones",
+            "title": "Taylor Swift est\u00e1 arrasando en taquilla. Es una noticia envenenada para la industria de Hollywood",
+            "description": "Finalmente, el docuconcierto 'The Eras Tour' de Taylor Swift no ha recaudado tanto como se esperaba, pero a\u00fan as\u00ed puede presumir de batir alg\u00fan r\u00e9cord y de haber tenido a las masas de fans en vilo durante todo el fin de semana. Se ha hablado largo y tendido d\u2026",
+            "url": "https://www.xataka.com/musica/taylor-swift-esta-arrasando-taquilla-noticia-envenenada-para-industria-hollywood",
+            "urlToImage": "https://i.blogs.es/c6cc2d/gettyimages-1476134463-1/840_560.jpeg",
+            "publishedAt": "2023-10-17T11:30:37Z",
+            "content": "Finalmente, el docuconcierto 'The Eras Tour' de Taylor Swift no ha recaudado tanto como se esperaba, pero a\u00fan as\u00ed puede presumir de batir alg\u00fan r\u00e9cord y de haber tenido a las masas de fans en vilo du\u2026 [+4467 chars]"
         },
         {
             "source": {
@@ -602,16 +875,16 @@
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
+                "id": "die-zeit",
+                "name": "Die Zeit"
             },
-            "author": null,
-            "title": "Taylor Swift gets 'heavenly' welcome from Christ the Redeemer",
-            "description": "The famous statue in Rio de Janeiro is illuminated as the global pop sensation arrives on her Eras tour.",
-            "url": "https://www.bbc.co.uk/news/av/world-latin-america-67456426",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16AC1/production/_131756829_p0gtdhdd.jpg",
-            "publishedAt": "2023-11-17T17:03:39Z",
-            "content": "Rio de Janeiro's Christ the Redeemer statue has been illuminated to welcome to Taylor Swift. \r\nIt came as the global pop sensation arrived in the country for her record-breaking Eras Tour.\r\nSwift had\u2026 [+92 chars]"
+            "author": "ZEIT ONLINE: News -",
+            "title": "American Football: Ex-Chiefs-Spieler der Dolphins: \u00abWill sie fertig machen\u00bb",
+            "description": "Hier finden Sie Informationen zu dem Thema \u201eAmerican Football\u201c. Lesen Sie jetzt \u201eEx-Chiefs-Spieler der Dolphins: \"Will sie fertig machen\"\u201c.",
+            "url": "https://www.zeit.de/news/2023-11/02/ex-chiefs-spieler-der-dolphins-will-sie-fertig-machen",
+            "urlToImage": "https://img.zeit.de/news/2023-11/02/ex-chiefs-spieler-der-dolphins-will-sie-fertig-machen-image-group/wide__1300x731",
+            "publishedAt": "2023-11-02T15:59:10Z",
+            "content": "Der Football-Profi Tyreek Hill von den Miami Dolphins will sein ehemaliges Team Kansas City Chiefs in der ersten Frankfurt-Partie \u00abfertig machen\u00bb. Er w\u00fcnsche seinem Ex-Team aber auch \u00abein gutes\u00bb Spie\u2026 [+2569 chars]"
         },
         {
             "source": {
@@ -642,6 +915,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Rub\u00e9n Andr\u00e9s",
+            "title": "Tras arrasar con su gira, su pel\u00edcula y ser la reina del streaming, Taylor Swift consigue un nuevo hito: ser milmillonaria",
+            "description": "Taylor Swift ha conseguido postrar a sus pies a toda una legi\u00f3n de fans en todo el mundo, pero lo m\u00e1s importante, es que tambi\u00e9n lo ha hecho con la industria de la m\u00fasica.\n<!-- BREAK 1 -->\nTras arrasar con la gira, triunfar en las salas con un\u2026 \u00bfcineconcierto\u2026",
+            "url": "https://www.xataka.com/magnet/arrasar-su-gira-su-pelicula-ser-reina-streaming-taylor-swift-consigue-nuevo-hito-ser-milmillonaria",
+            "urlToImage": "https://i.blogs.es/83fab2/taylor-swift/840_560.jpeg",
+            "publishedAt": "2023-11-06T19:31:29Z",
+            "content": "Taylor Swift ha conseguido postrar a sus pies a toda una legi\u00f3n de fans en todo el mundo, pero lo m\u00e1s importante, es que tambi\u00e9n lo ha hecho con la industria de la m\u00fasica.\r\nTras arrasar con la gira, \u2026 [+2546 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Rolling Stone"
             },
             "author": "Ethan Millman",
@@ -655,15 +941,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Rolling Stone"
+                "name": "Le HuffPost"
             },
-            "author": "Larisha Paul",
-            "title": "A Swiftie\u2019s Halloween Costume Joked That Taylor Swift Put Travis Kelce on the Map \u2014 He Loved It",
-            "description": "\"You get a round of applause for that one. I enjoyed that,\" the Kansas City Chief's player said after watching a TikTok one fan made showing off her clever costume",
-            "url": "https://www.rollingstone.com/music/music-news/taylor-swift-and-travis-kelce-halloween-costumes-reaction-1234867935/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/11/Travis-Kelce-Reacts-to-Swiftie-Costumes-Travis-Kelce-Reacts-to-Swiftie-Costumes.jpg?crop=0px%2C7px%2C1800px%2C1014px&resize=1600%2C900",
-            "publishedAt": "2023-11-01T16:19:38Z",
-            "content": "Swifties have rarely ever spared Taylor Swift\u2018s boyfriends from a solid Comedy Central-level roast. They\u2019ve gone after Harry Styles\u2019 driving skills (or lack thereof), Taylor Lautner popping up to do \u2026 [+1678 chars]"
+            "author": "Albane Guichard",
+            "title": "Taylor Swift change les paroles de \u00ab\u00a0Karma\u00a0\u00bb pour Travis Kelce en plein concert du Eras Tour en Argentine",
+            "description": "Le joueur des Chiefs a assist\u00e9 au concert de Taylor Swift \u00e0 Buenos Aires. La superstar lui a fait une d\u00e9dicace sur sc\u00e8ne lors d\u2019un titre de son album \u00ab\u00a0Midnights\u00a0\u00bb.",
+            "url": "https://www.huffingtonpost.fr/culture/video/taylor-swift-change-les-paroles-de-karma-pour-travis-kelce-en-plein-concert-du-eras-tour-en-argentine_225697.html",
+            "urlToImage": "https://huffpost-focus.sirius.press/2023/11/13/0/0/1920/1080/1820/1023/75/0/37ae07b_1699892010603-tay-travis.jpg",
+            "publishedAt": "2023-11-13T16:30:09Z",
+            "content": "Vous ne pouvez pas visionner ce contenu car :<ul><li>Vous avez refus\u00e9 les cookies associ\u00e9s aux contenus issus de tiers en vous abonnant. Vous ne pourrez donc pas lire nos vid\u00e9os qui ont besoin de coo\u2026 [+2398 chars]"
         },
         {
             "source": {
@@ -677,6 +963,19 @@
             "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAxNTkxMzE0NDU2NzgyNDIz/travis-kelce.jpg",
             "publishedAt": "2023-10-18T23:26:05Z",
             "content": "Before\u00a0Chiefs\u00a0tight end\u00a0Travis Kelce\u00a0heads to the stadium for a game on Sunday, Monday or Thursday each week, he spends a lot of time in his closet picking out the perfect game day outfit.\r\nKelce spo\u2026 [+871 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Corinne Heller",
+            "title": "Taylor Swift Runs and Kisses Travis Kelce After Buenos Aires Concert",
+            "description": "Now that's a hard launch.\nTaylor Swift didn't walk\u2014she ran\u00a0straight into Travis Kelce's arms after finishing her second Eras tour show in Buenos Aires Nov. 11, meeting the Kansas City Chiefs...",
+            "url": "https://www.eonline.com/news/1389727/taylor-swift-runs-and-kisses-travis-kelce-after-buenos-aires-eras-tour-concert",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023828/rs_1200x1200-230928125156-taylor-swift-travis-kelce-ranch-1.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-11-12T18:16:56Z",
+            "content": "Now that's a hard launch.\r\nTaylor Swift didn't walkshe ran\u00a0straight into Travis Kelce's arms after finishing her second Eras tour show in Buenos Aires Nov. 11, meeting the Kansas City Chiefs player i\u2026 [+882 chars]"
         },
         {
             "source": {
@@ -755,6 +1054,32 @@
             "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAxMDcxNTU5NTI2MzI3NzUw/taylor-swift.jpg",
             "publishedAt": "2023-10-22T20:12:32Z",
             "content": "NFL fans should probably accept that Taylor Swift appearing at\u00a0Chiefs\u00a0games is now a regular thing, considering her rumored relationship with\u00a0Travis Kelce.\r\nWord went out a couple of hours before Kan\u2026 [+1248 chars]"
+        },
+        {
+            "source": {
+                "id": "marca",
+                "name": "Marca"
+            },
+            "author": "ENRIQUE CORBELLA",
+            "title": "El baile viral de Taylor Swift en la NFL animando a Travis Kelce... y la prueba gr\u00e1fica de su amor",
+            "description": "Taylor Swift volvi\u00f3 a animar a Travis Kelce en un partido de la NFL y los Kansas City Chiefs volvieron a ganar, en esta ocasi\u00f3n a Los Angeles Chargers por 31-17. \n\nLa cantante prot",
+            "url": "https://www.marca.com/nfl/2023/10/23/653613fe268e3eb1718b4575.html",
+            "urlToImage": "https://ak.uecdn.es/p/110/thumbnail/entry_id/0_z7ap9aj1/width/657/type/2/bgcolor/000000/0_z7ap9aj1.jpg",
+            "publishedAt": "2023-10-23T06:47:49Z",
+            "content": "Taylor Swift volvi\u00f3 a animar a Travis Kelce en un partido de la NFL y los Kansas City Chiefs volvieron a ganar, en esta ocasi\u00f3n a Los Angeles Chargers por 31-17. \r\nLa cantante protagoniz\u00f3 un baile vi\u2026 [+545 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "John Tones",
+            "title": "Nuevo choque entre Taylor Swift y las discogr\u00e1ficas: los contratos cambian para evitar que otros artistas sigan sus pasos",
+            "description": "Cuando Taylor Swift anunci\u00f3 en 2021 que iba a regrabar todos los discos que edit\u00f3 con Big Machine Records, su decisi\u00f3n fue recibida con cierto excepticismo, ya que la artista estaba en medio de una cruenta guerra por la recuperaci\u00f3n de sus masters y se entend\u2026",
+            "url": "https://www.xataka.com/musica/nuevo-choque-taylor-swift-discograficas-contratos-cambian-para-evitar-que-otros-artistas-sigan-sus-pasos",
+            "urlToImage": "https://i.blogs.es/131409/taylor-swift-red-cr-beth-garrabrant-press-2021-billboard-1548-1636735410/840_560.jpeg",
+            "publishedAt": "2023-10-31T13:01:55Z",
+            "content": "Cuando Taylor Swift anunci\u00f3 en 2021 que iba a regrabar todos los discos que edit\u00f3 con Big Machine Records, su decisi\u00f3n fue recibida con cierto excepticismo, ya que la artista estaba en medio de una c\u2026 [+4004 chars]"
         },
         {
             "source": {
@@ -863,6 +1188,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Uol.com.br"
+            },
+            "author": "Milena Casaca",
+            "title": null,
+            "description": "Taylor Swift chega ao Brasil na pr\u00f3xima semana para os shows da The Eras Tour, e muitos querem saber: seu novo namorado, o jogador da NFL Travis Kelce, vem com ela?",
+            "url": "https://www.uol.com.br/splash/noticias/2023/11/11/taylor-swift-namorados.htm",
+            "urlToImage": "https://conteudo.imguol.com.br/c/entretenimento/fc/2023/10/15/travis-kelce-e-taylor-swift-aparecem-juntos-de-maos-dadas-na-festa-do-snl-1697384112421_v2_615x300.jpg",
+            "publishedAt": "2023-11-11T16:52:04Z",
+            "content": "Taylor Swift posa com Calvin Harris na praia Imagem: Repodu\u00e7\u00e3o/Instagram/taylorswift\r\nTom Hiddleston rendeu uma das m\u00fasicas mais amadas pelos swifties: \"Getaway Car\", do \u00e1lbum \"Reputation\". A m\u00fasica \u2026 [+558 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "The A.V. Club"
             },
             "author": "William Hughes",
@@ -885,6 +1223,19 @@
             "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/10/GettyImages-1750806324.jpg?w=1024&h=683&crop=1",
             "publishedAt": "2023-10-24T08:07:11Z",
             "content": "Taylor Swift is not just like us \u2013 she\u2019s better. In his first interview since his son, Travis Kelce, went public with the \u201cKarma\u201d singer, Ed Kelce revealed to\u00a0People Magazine\u00a0the moment that showed h\u2026 [+2377 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Celebitchy.com"
+            },
+            "author": "Kaiser",
+            "title": "Chariah Gordon posted adorable photos of Taylor Swift & Travis Kelce",
+            "description": "View this post on Instagram A post shared by Chariah Gordon (@chariah_) One thing about Taylor Swift is that she\u2019s a tall woman and she loves a tall man. Calvin Harris? 6\u20196\u201d. Tom Hiddleston? 6\u20192\u201d. Joe Alwyn? 6\u20191\u201d, although he carries himself as a much taller \u2026",
+            "url": "https://www.celebitchy.com/841864/chariah_gordon_posted_adorable_photos_of_taylor_swift_travis_kelce/",
+            "urlToImage": null,
+            "publishedAt": "2023-10-24T11:35:32Z",
+            "content": "One thing about Taylor Swift is that shes a tall woman and she loves a tall man. Calvin Harris? 66. Tom Hiddleston? 62. Joe Alwyn? 61, although he carries himself as a much taller man. Travis Kelce i\u2026 [+1505 chars]"
         },
         {
             "source": {
@@ -950,357 +1301,6 @@
             "urlToImage": "https://deadline.com/wp-content/uploads/2023/11/GettyImages-1785074400-e1699650369196.jpg?w=1024",
             "publishedAt": "2023-11-10T21:48:52Z",
             "content": "Taylor Swift has postponed tonight\u2019s Eras Tour concert in Buenos Aires due to what she called \u201ctruly chaotic\u201d weather, a description that might also apply to the media frenzy with the arrival in Arge\u2026 [+1244 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Greg Evans",
-            "title": "Taylor Swift Music \u201cPunted\u201d From Philly Radio Station Until After Eagles-Chiefs Game",
-            "description": "Listeners of Philadelphia\u2019s Q102 won\u2019t be hearing any Taylor Swift music this weekend: The popular radio station says the city\u2019s football team needs no distractions prior to its game against the Kansas City Chiefs (and Swift beau Travis Kelce) Monday night. \u201c\u2026",
-            "url": "https://deadline.com/2023/11/taylor-swift-q102-philadelpha-radio-1235616362/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/11/GettyImages-1750854248.jpg?w=1024",
-            "publishedAt": "2023-11-17T16:53:31Z",
-            "content": "Listeners of Philadelphia\u2019s Q102 won\u2019t be hearing any Taylor Swift music this weekend: The popular radio station says the city\u2019s football team needs no distractions prior to its game against the Kans\u2026 [+995 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Windows Central"
-            },
-            "author": "Jennifer Young",
-            "title": "This Spotify hack transformed my music \u2014 thanks to Taylor Swift",
-            "description": "In the world of music streaming, every note and nuance counts. And thanks to Taylor Swift, indirectly, I've found a hidden setting that you need to turn OFF to have the best experience with your music on Spotify.",
-            "url": "https://www.windowscentral.com/software-apps/this-spotify-hack-transformed-my-music-thanks-to-taylor-swift",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/kpbHKystfGQCefdobcAEfN-1200-80.jpg",
-            "publishedAt": "2023-10-27T16:15:04Z",
-            "content": "I love Spotify, so much so that I'd take my subscription to the grave, and it's even more cherished than my Xbox Game Pass subscription. Despite being a daily Spotify user for the past 15 years, I've\u2026 [+3406 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "Apple\u2019s Journal app is kind of smart \u2014 and kind of basic",
-            "description": "Apple Journal comes with iOS 17.2 and includes features for saving photos, video, text, and more. It also includes a suggestions API that uses AI to try and guess which moments matter most.",
-            "url": "https://www.theverge.com/2023/10/28/23935473/apple-iphone-journal-app-preview",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/lAop_3d5kJsfVxvNeXLDIz8GwZY=/0x0:6000x4000/1200x628/filters:focal(3000x2000:3001x2001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25038993/Apple_Journal.jpg",
-            "publishedAt": "2023-10-28T13:15:00Z",
-            "content": "Apples Journal app is kind of smart and kind of basic\r\nApples Journal app is kind of smart and kind of basic\r\n / Using everything your phone knows about you to help you chronicle your life is a fasci\u2026 [+6169 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ComingSoon.net"
-            },
-            "author": "Paul Tamburro",
-            "title": "Is Taylor Swift Engaged to Travis Kelce? 2023 Engagement Rumors Explained",
-            "description": "Taylor Swift and Travis Kelce\u2019s relationship has been making waves this year, with the \u2018pair \u2018Shake It Off\u2019 singer and Kansas City Chiefs player inevitably becoming one of the most talked-about couples in the celebrity world. As a result, many are wondering: \u2026",
-            "url": "https://www.comingsoon.net/guides/news/1403314-taylor-swift-engaged-travis-kelce-2023-married",
-            "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/taylor-swift-travis-kelce-engaged.jpg?resize=1200,630",
-            "publishedAt": "2023-11-15T14:57:41Z",
-            "content": "Taylor Swift and Travis Kelces relationship has been making waves this year, with the pair Shake It Off singer and Kansas City Chiefs player inevitably becoming one of the most talked-about couples i\u2026 [+1837 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gofugyourself.com"
-            },
-            "author": "Heather",
-            "title": "Taylor Swift Was Out Enjoying New York City With Her Ladies",
-            "description": "As she should!\nThe post Taylor Swift Was Out Enjoying New York City With Her Ladies first appeared on Go Fug Yourself.",
-            "url": "https://www.gofugyourself.com/taylor-swift-was-out-enjoying-new-york-city-with-her-ladies-11-2023",
-            "urlToImage": "https://static.gofugyourself.com/uploads/2023/11/GettyImages-1775205697-1699160410.jpg",
-            "publishedAt": "2023-11-06T20:05:39Z",
-            "content": "I HOPE Taylor Swift is enjoying her life right now, because it IS her life. I hope, if she and Travis Kelce are dating for real, that they are indeed getting a kick out of the media eating out of the\u2026 [+629 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Chance Miller",
-            "title": "Taylor Swift named the Apple Music Artist of the Year: \u20182023 (Taylor\u2019s Version)\u2019",
-            "description": "Apple has named Taylor Swift the Apple Music Artist of the Year for 2023. \u201cAcross the charts, streams, and concert stadiums filled with screaming, bracelet-wearing super fans, Swift undeniably reached a new realm of superstardom this year,\u201d Apple explains. \n\n\u2026",
-            "url": "https://9to5mac.com/2023/11/08/taylor-swift-apple-music-artist-of-the-year/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/taylor-swift-apple-music.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2023-11-08T16:14:01Z",
-            "content": "Apple has named Taylor Swift the Apple Music Artist of the Year for 2023. \u201cAcross the charts, streams, and concert stadiums filled with screaming, bracelet-wearing super fans, Swift undeniably reache\u2026 [+2480 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Stereogum"
-            },
-            "author": "Chris DeVille",
-            "title": "Hear Post Malone Cover Alice In Chains\u2019 \u201cThem Bones\u201d On Howard Stern",
-            "description": "Post Malone returned to The Howard Stern Show on Tuesday for all kinds of hijinks. He covered \u201cThem Bones\u201d by Alice In Chains (which once would\u2019ve seemed wild but now feels entirely normal) and played \u201cLandmine\u201d from his own recent album Austin. He also refle\u2026",
-            "url": "https://www.stereogum.com/2239446/post-malone-alice-in-chains-them-bones-howard-stern/news/",
-            "urlToImage": "https://static.stereogum.com/uploads/2023/10/1741246056-1697592093-scaled.jpg",
-            "publishedAt": "2023-10-19T16:33:14Z",
-            "content": "Post Malone returned to The Howard Stern Show on Tuesday for all kinds of hijinks. He covered \u201cThem Bones\u201d by Alice In Chains (which once would\u2019ve seemed wild but now feels entirely normal) and playe\u2026 [+947 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "The Deadline Team",
-            "title": "Taylor Swift\u2019s \u20181989 (Taylor\u2019s Version)\u2019 Has A Big, Big, Really Big Sales Debut",
-            "description": "Taylor Swift just had a week where the biggest news wasn\u2019t Travis Kelce. Continuing to add to her billion-dollar empire, Taylor Swift\u2019s 1989 (Taylor\u2019s Version) bowed this week at #1 on the Billboard 200, Top Album Sales, Vinyl Albums and Top Streaming Albums \u2026",
-            "url": "https://deadline.com/2023/11/taylor-swift-1989-taylors-version-has-big-sales-debut-1235593752/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/11/TaylorSwift1989-e1699218222937.png?w=896",
-            "publishedAt": "2023-11-05T21:04:08Z",
-            "content": "Taylor Swift just had a week where the biggest news wasn\u2019t Travis Kelce. \r\nContinuing to add to her billion-dollar empire, Taylor Swift\u2019s 1989 (Taylor\u2019s Version) bowed this week at #1 on the Billboar\u2026 [+1085 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pitchfork"
-            },
-            "author": "Hattie Lindert",
-            "title": "Boygenius, Olivia Rodrigo, and Miley Cyrus Nominated for Record of the Year at 2024 Grammys",
-            "description": "SZA, Taylor Swift, Billie Eilish, Victoria Mon\u00e9t, and Jon Batiste are also up for the award",
-            "url": "https://pitchfork.com/news/boygenius-olivia-rodrigo-and-miley-cyrus-nominated-for-record-of-the-year-at-2024-grammys/",
-            "urlToImage": "https://media.pitchfork.com/photos/654db0f656664895b471b3c6/16:9/w_1280,c_limit/Boygenius%20Olivia%20Rodrigo%20Miley%20Cyrus.jpg",
-            "publishedAt": "2023-11-10T16:15:49Z",
-            "content": "The 2024 Grammys are approaching, and Boygenius, Olivia Rodrigo, and Miley Cyrus have all received nominations for Record of the Year. SZA, Taylor Swift, Billie Eilish, Victoria Mon\u00e9t, and Jon Batist\u2026 [+1074 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Anthony Gharib",
-            "title": "Taylor Swift takes in Chargers-Chiefs at Arrowhead in Week 7",
-            "description": "Taylor Swift is back at Arrowhead Stadium for the second week in a row to watch the Los Angeles Chargers take on the Kansas City Chiefs.",
-            "url": "https://www.espn.com/nfl/story/_/id/38718927/taylor-swift-travis-kelce-kansas-city-chiefs-los-angeles-chargers",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1022%2Fr1242036_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-10-22T20:56:44Z",
-            "content": "Taylor Swift appearances at Arrowhead Stadium will never go out of style. The songstress is in attendance to watch Travis Kelce and the Kansas City Chiefs take on the Los Angeles Chargers.\r\nSwift too\u2026 [+961 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The A.V. Club"
-            },
-            "author": "Peter Scobel",
-            "title": "Deadpool 3 director addresses rumors of a Taylor Swift cameo",
-            "description": "Fans have been speculating that Taylor Swift will join the MCU as Dazzler",
-            "url": "https://www.avclub.com/deadpool-3-director-addresses-rumors-of-a-taylor-swift-1850939985",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/74a3e56768d2604baca06a57ce45f088.png",
-            "publishedAt": "2023-10-19T00:21:00Z",
-            "content": "Fans have been speculating that Taylor Swift will join the MCU as Dazzler\r\nWe may earn a commission from links on this page."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Corinne Heller",
-            "title": "Travis Kelce Reacts to Costumes Inspired by Taylor Swift Romance",
-            "description": "Travis Kelce has mad love for what some people have done for Halloween to pay homage to him and Taylor Swift.\nIn fact, the Kansas City Chiefs tight end and his brother Jason Kelce critiqued fans'...",
-            "url": "https://www.eonline.com/news/1389065/travis-kelce-reacts-to-halloween-costumes-inspired-by-taylor-swift-romance",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202393/rs_1200x1200-231003153138-travis_kelce_taylor_swift1.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-11-01T16:08:35Z",
-            "content": "Travis Kelce has mad love for what some people have done for Halloween to pay homage to him and Taylor Swift.\r\nIn fact, the Kansas City Chiefs tight end and his brother Jason Kelce critiqued fans' Ha\u2026 [+721 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Elyse Dupre",
-            "title": "Hilarie Burton Predicts Taylor Swift & Travis Kelce Engagement by May",
-            "description": "It's a love story, and, baby,\u00a0Hilarie Burton\u00a0thinks\u00a0Taylor Swift\u00a0may just say yes to\u00a0Travis Kelce.\u00a0\nAfter seeing the Kansas City Chiefs player's reaction to the singer's sweet \"Karma\" shout-out at...",
-            "url": "https://www.eonline.com/news/1389741/why-hilarie-burton-is-convinced-taylor-swift-and-travis-kelce-will-be-engaged-by-may-2024",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20231013/rs_1200x1200-231113052657-1200-hilarie-travis-taylor-111323.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-11-13T13:35:35Z",
-            "content": "It's a love story, and, baby,\u00a0Hilarie Burton\u00a0thinks\u00a0Taylor Swift\u00a0may just say yes to\u00a0Travis Kelce.\u00a0\r\nAfter seeing the Kansas City Chiefs player's reaction to the singer's sweet \"Karma\" shout-out at h\u2026 [+726 chars]"
-        },
-        {
-            "source": {
-                "id": "buzzfeed",
-                "name": "Buzzfeed"
-            },
-            "author": "Kristen Harris",
-            "title": "14 Celebs Who Have Literally Offered Their Homes, Money, And Other Resources To Other Celebs",
-            "description": "When Taylor Swift first bought her NYC penthouse in 2014, her then-close friend Karlie Kloss stayed over often enough that she essentially had her own room. It had a basket of Karlie's favorite Whole Foods snacks and pictures of her on the wall.View Entire Po\u2026",
-            "url": "https://www.buzzfeed.com/kristenharris1/celebs-helped-famous-friends",
-            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-10/25/19/enhanced/fae98146dde3/original-952-1698263644-2.jpg?crop=1246:652;0,7%26downsize=1250:*",
-            "publishedAt": "2023-10-26T16:16:02Z",
-            "content": "She told Vanity Fair, \"So, I got a room that you could get by the hour up on Martin Luther King and Western at this place called the Snooty Fox...I just wanted to take a shower, take a little nap, wr\u2026 [+701 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pitchfork"
-            },
-            "author": "Hattie Lindert",
-            "title": "Billie Eilish, Dua Lipa, and SZA Nominated for Song of the Year at 2024 Grammys",
-            "description": "Taylor Swift, Olivia Rodrigo, Lana Del Rey, Jon Batiste, and Miley Cyrus round out the nominees this year",
-            "url": "https://pitchfork.com/news/billie-eilish-dua-lipa-and-sza-nominated-for-song-of-the-year-at-2024-grammys/",
-            "urlToImage": "https://media.pitchfork.com/photos/654d94b47d076cc8e88c5d5f/16:9/w_1280,c_limit/Billie%20Eilish%20Dua%20Lipa%20SZA.jpg",
-            "publishedAt": "2023-11-10T16:09:55Z",
-            "content": "The 2024 Grammy Award nominations were announced today, and Billie Eilish, Dua Lipa, SZA, and Taylor Swift are all up for Song of the Year. Olivia Rodrigo, Lana Del Rey, Jon Batiste, and Miley Cyrus \u2026 [+991 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The A.V. Club"
-            },
-            "author": "Peter Scobel",
-            "title": "Taylor Swift has Illuminati money now",
-            "description": "Taylor Swift is officially a billionaire now, and her Eras Tour has added an estimated $4.3 billion to the U.S. gross domestic product this year",
-            "url": "https://www.avclub.com/taylor-swift-has-illuminati-money-now-1850968796",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/74a3e56768d2604baca06a57ce45f088.png",
-            "publishedAt": "2023-10-27T23:33:00Z",
-            "content": "Taylor Swift is officially a billionaire now, and her Eras Tour has added an estimated $4.3 billion to the U.S. gross domestic product this year\r\nWe may earn a commission from links on this page."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Elisabeth Garber-Paul",
-            "title": "Can \u2018Taylor Swift: The Eras Tour\u2019 Turn a Non-Swiftie? We Put It to the Test",
-            "description": "A Rolling Stone editor and self-admitted non Taylor Swift fan reviews the \u2018Taylor Swift: The Eras Tour.'",
-            "url": "https://www.rollingstone.com/music/music-features/taylor-swift-the-eras-tour-non-swiftie-review-1234860064/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/10/taylor-swift-for-non-swifty.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2023-10-23T16:00:00Z",
-            "content": "There\u2019s a moment early on in Taylor Swift Era\u2019s Tour concert film before she launches into her nearly dozen studio albums, but after she points to parts of the crowd to see how loud they\u2019ll scream, w\u2026 [+10141 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Greg Engle, Contributor, \n Greg Engle, Contributor\n https://www.forbes.com/sites/gregengle/",
-            "title": "Travis Kelce Could Bring 'Taylor Swift Effect' To F-1 With New Group's $211 Million Investment",
-            "description": "There should be no surprise if fans see Taylor Swift at an upcoming F1 race. After all, her new beau is now an investor in the Alpine F1 team.",
-            "url": "https://www.forbes.com/sites/gregengle/2023/10/17/travis-kelce-could-bring-taylor-swift-effect-to-f1-with-new-group-211-million-investment/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/652ea7133a96a6e02b150c53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2023-10-17T15:29:53Z",
-            "content": "JEDDAH, SAUDI ARABIA - MARCH 19: Esteban Ocon of France driving the (31) Alpine A523 Renault and ... [+] Pierre Gasly of France driving the (10) Alpine F1 A523 Renaulton track during the F1 Grand Pri\u2026 [+5021 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Kai Xiang Teo",
-            "title": "Nvidia boss Jensen Huang joked that Jackie Chan should play him in a movie",
-            "description": "\"I'll do my own stunts, yeah. I'll do all my own typing,\" Nvidia CEO Jensen Huang joked.",
-            "url": "https://www.businessinsider.com/nvidia-jensen-huang-joked-jackie-chan-play-him-movie-2023-11",
-            "urlToImage": "https://i.insider.com/6548574236d588dc55cb2ccb?width=1200&format=jpeg",
-            "publishedAt": "2023-11-06T06:03:33Z",
-            "content": "Jensen Huang, co-founder and CEO of Nvidia, speaks during the Hon Hai Tech Day in Taipei on October 18, 2023.I-HWA CHENG/AFP via Getty Image\r\n<ul><li>Nvidia CEO Jensen Huang already has an actor in m\u2026 [+1854 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The A.V. Club"
-            },
-            "author": "Mary Kate Carr",
-            "title": "Taylor Swift really wants \"Cruel Summer\" to go to #1",
-            "description": "Taylor Swift has 12 number-one albums (the most of any female artist, and fourth-most overall). She\u2019s had nine number-one singles (\u201cAnti-Hero,\u201d \u201cBlank Space,\u201d \u201cShake It Off,\u201d \u201cLook What You Made Me Do,\u201d \u201cWe Are Never Ever Getting Back Together,\u201d \u201cAll Too Well\u2026",
-            "url": "https://www.avclub.com/taylor-swift-really-wants-cruel-summer-to-go-to-1-1850941542",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3c0bec2f892e4804d16818832514681c.jpg",
-            "publishedAt": "2023-10-19T16:40:25Z",
-            "content": "Taylor Swift has 12 number-one albums (the most of any female artist, and fourth-most overall). Shes had nine number-one singles (Anti-Hero, Blank Space, Shake It Off, Look What You Made Me Do, We Ar\u2026 [+4330 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Gabrielle Chung",
-            "title": "Travis Kelce Hints at True Timeline of Taylor Swift Romance",
-            "description": "Maybe August did sip away like a bottle of wine for Travis Kelce\u00a0and\u00a0Taylor Swift.\nAfter the Kansas City Chiefs tight end first tried to shoot his shot with the pop superstar in July, the pair...",
-            "url": "https://www.eonline.com/news/1388357/travis-kelce-hints-at-true-timeline-of-taylor-swift-romance",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023920/cr_1200x1200-231020133013-GettyImages-1736565364.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-10-20T21:57:00Z",
-            "content": "No. 6: He's Family-OrientedLike Taylor, who is close with her parents, particularly her mother Andrea, Travis hails from a tight-knit fam, including his parents Ed and Donna Kelce.\r\nDonna became a be\u2026 [+1171 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Highsnobiety"
-            },
-            "author": null,
-            "title": "Are Vintage Designer Clothes Actually Still Cool?",
-            "description": "Taylor Swift is a great bellwether for, well, almost anything. Swift's mass appeal makes her a living case study for phenomenon like ticket price furor and cel\u2026",
-            "url": "https://www.highsnobiety.com/p/vintage-designer-clothing-peak/",
-            "urlToImage": "https://www.highsnobiety.com/static-assets/dato/1698088351-vintage-designer-clothing-peak-3.jpg",
-            "publishedAt": "2023-10-23T21:53:36Z",
-            "content": "Taylor Swift is a great bellwether for, well, almost anything. Swift's mass appeal makes her a living case study for phenomenon like ticket price furor and celebrity-driven demand, for instance. So, \u2026 [+4481 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Monica Mercuri, Contributor, \n Monica Mercuri, Contributor\n https://www.forbes.com/sites/monicamercuri/",
-            "title": "\u2018Dancing With The Stars\u2019 Announces First Taylor Swift Night",
-            "description": "ABC finally confirmed that there will be a Taylor Swift-themed night on 'Dancing With the Stars' this season. Here's when to tune into \u201cA Celebration of Taylor Swift.\"",
-            "url": "https://www.forbes.com/sites/monicamercuri/2023/11/06/dancing-with-the-stars-announces-first-taylor-swift-night/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6548efac6de1652c0fdbb75c/0x0.jpg?format=jpg&crop=3631,2423,x0,y244,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2023-11-06T14:09:58Z",
-            "content": "MEXICO CITY, MEXICO - AUGUST 24: EDITORIAL USE ONLY. NO BOOK COVERS. Taylor Swift performs onstage ... [+] during the \"Taylor Swift | The Eras Tour\" at Foro Sol on August 24, 2023 in Mexico City, Mex\u2026 [+2968 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Hayley Santaflorentina",
-            "title": "\u201cShocked\u201d Travis Kelce Reacts to Taylor Swift\u2019s Concert Shoutout",
-            "description": "Karma really is her boyfriend.\u00a0\nIt was a big weekend for\u00a0Travis Kelce\u00a0and\u00a0Taylor Swift\u00a0as they took their romance south of the equator to Argentina for the Grammy winner's shows in Buenos Aires....",
-            "url": "https://www.eonline.com/news/1389886/shocked-travis-kelce-reacts-to-taylor-swifts-concert-shoutout",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023916/rs_1200x1200-231016033341-taylor-swift-travis-kelce-nyc-3.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-11-15T13:12:20Z",
-            "content": "Karma really is her boyfriend.\u00a0\r\nIt was a big weekend for\u00a0Travis Kelce\u00a0and\u00a0Taylor Swift\u00a0as they took their romance south of the equator to Argentina for the Grammy winner'sshows in Buenos Aires. And \u2026 [+775 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Hayley Santaflorentina",
-            "title": "Taylor Swift & Travis Kelce's Date Nights Continue in Kansas City",
-            "description": "With one win already in the books\u2026\nTaylor Swift\u00a0and\u00a0Travis Kelce\u00a0brought their weekend to the end zone once again with the perfect date night. After enjoying time in the city that never sleeps...",
-            "url": "https://www.eonline.com/news/1388524/taylor-swift-and-travis-kelces-winning-date-nights-continue-in-kansas-city",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023924/rs_1200x1200-231024074219-TravlorThumb.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-10-24T15:22:10Z",
-            "content": "With one win already in the books\r\nTaylor Swift\u00a0and\u00a0Travis Kelce\u00a0brought their weekend to the end zone once again with the perfect date night. After enjoying time in the city that never sleeps earlie\u2026 [+1007 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AppleInsider"
-            },
-            "author": "news@appleinsider.com (Amber Neely)",
-            "title": "Apple Music celebrates Taylor Swift as the Artist of the Year for 2023",
-            "description": "Taylor Swift has been named Apple Music's 2023 Artist of the Year, setting record-breaking milestones and receiving the prestigious Apple Music Award.Throughout the year, Swift achieved remarkable feats such as chart-topping songs, massive streaming numbers, \u2026",
-            "url": "https://appleinsider.com/articles/23/11/08/apple-music-celebrates-taylor-swift-as-the-artist-of-the-year-for-2023",
-            "urlToImage": "https://photos5.appleinsider.com/gallery/57194-116307-music-awards-xl.jpg",
-            "publishedAt": "2023-11-08T16:30:29Z",
-            "content": "Taylor Swift has been named Apple Music's 2023 Artist of the Year, setting record-breaking milestones and receiving the prestigious Apple Music Award.\r\nThroughout the year, Swift achieved remarkable \u2026 [+2432 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pitchfork"
-            },
-            "author": "Jazz Monroe",
-            "title": "Jack Antonoff Chats, Bleachers Perform \u201cModern Girl\u201d on Fallon: Watch",
-            "description": "As well as giving the single its TV debut, Antonoff discussed working with Taylor Swift and made an impromptu song with Jimmy Fallon",
-            "url": "https://pitchfork.com/news/jack-antonoff-chats-bleachers-perform-modern-girl-on-fallon-watch/",
-            "urlToImage": "https://media.pitchfork.com/photos/65439634e9163609d8bc9208/16:9/w_1280,c_limit/Bleachers-Jack-Antonoff-FALLON-2023.jpg",
-            "publishedAt": "2023-11-02T13:15:22Z",
-            "content": "Jack Antonoff was a guest on last nights episode of The Tonight Show Starring Jimmy Fallon. The producer, songwriter, and Bleachers frontman sat down to discuss writing with Taylor Swift and the . He\u2026 [+404 chars]"
         }
     ]
 }

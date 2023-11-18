@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 6301,
+    "totalResults": 6148,
     "articles": [
         {
             "source": {
@@ -586,19 +586,6 @@
             "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1700078711/jlumw88suggquldrbdpw.jpg",
             "publishedAt": "2023-11-15T20:19:58Z",
             "content": "Alex Grimm/Getty Images\r\nTravis Kelce and Taylor Swift appear to be taking the next step in their relationship.\r\nThe parents of the Chiefs tight end and world-renowned singer/songwriter are expected \u2026 [+1704 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Taylor Swift gets 'heavenly' welcome from Christ the Redeemer",
-            "description": "The famous statue in Rio de Janeiro is illuminated as the global pop sensation arrives on her Eras tour.",
-            "url": "https://www.bbc.co.uk/news/av/world-latin-america-67456426",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16AC1/production/_131756829_p0gtdhdd.jpg",
-            "publishedAt": "2023-11-17T17:03:39Z",
-            "content": "Rio de Janeiro's Christ the Redeemer statue has been illuminated to welcome to Taylor Swift. \r\nIt came as the global pop sensation arrived in the country for her record-breaking Eras Tour.\r\nSwift had\u2026 [+92 chars]"
         },
         {
             "source": {
@@ -1301,6 +1288,19 @@
             "urlToImage": "https://media.pitchfork.com/photos/654d94b47d076cc8e88c5d5f/16:9/w_1280,c_limit/Billie%20Eilish%20Dua%20Lipa%20SZA.jpg",
             "publishedAt": "2023-11-10T16:09:55Z",
             "content": "The 2024 Grammy Award nominations were announced today, and Billie Eilish, Dua Lipa, SZA, and Taylor Swift are all up for Song of the Year. Olivia Rodrigo, Lana Del Rey, Jon Batiste, and Miley Cyrus \u2026 [+991 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The A.V. Club"
+            },
+            "author": "Peter Scobel",
+            "title": "Taylor Swift has Illuminati money now",
+            "description": "Taylor Swift is officially a billionaire now, and her Eras Tour has added an estimated $4.3 billion to the U.S. gross domestic product this year",
+            "url": "https://www.avclub.com/taylor-swift-has-illuminati-money-now-1850968796",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/74a3e56768d2604baca06a57ce45f088.png",
+            "publishedAt": "2023-10-27T23:33:00Z",
+            "content": "Taylor Swift is officially a billionaire now, and her Eras Tour has added an estimated $4.3 billion to the U.S. gross domestic product this year\r\nWe may earn a commission from links on this page."
         }
     ]
 }

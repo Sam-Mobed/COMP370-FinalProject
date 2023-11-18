@@ -12,11 +12,6 @@ do we want to sort them? if we don't sort them in what order to they come? (exa:
 
 only three endpoints available, we will use /v2/everything
 
-We won't get all 500 articles from a single query. we want to look at multiple keywords that belong to different categories/topics.
-We will send multiple requests, each looking for articles that highlight a specific topic about taylor swift.
-
-From these, we take a random sample 500 articles (in a way that one topic isn't over-represented.)
-
 '''
 
 from pathlib import Path
@@ -46,15 +41,23 @@ def fetch_latest_news(api_key, news_keywords, topic):
     edited_keyword = []
     for i in range(len(news_keywords)):
         if i!=0:
-            edited_keyword.append('AND')
+            edited_keyword.append('OR')
         if ' ' in news_keywords[i]:
             #phrases are sentences that contain whitespace, and they need to be surrounded by quotes in the query string
             news_keywords[i] = f'"{news_keywords[i]}"' 
         edited_keyword.append(news_keywords[i])
     edited_keyword = ''.join(edited_keyword)
 
-    query = f'{query_string}q={edited_keyword}&from={str(lookback)}&to={str(current_date)}&apiKey={api_key}'
-    
+    #query = f'{query_string}q={edited_keyword}&sortBy=relevancy&excludeDomains=*.uk&language=en&from={str(lookback)}&to={str(current_date)}&apiKey={api_key}'
+    #three changes I made, I used OR to join keywords, I set language=en and sorted by relevancy,
+    query = f'{query_string}q={edited_keyword}&sortBy=relevancy&excludeDomains=*.uk,*.fr,*.de,*.es,*.ru&language=en&from={str(lookback)}&to={str(current_date)}&apiKey={api_key}'
+    '''
+    the media company says that they are especially concerned with North American coverage. this doesn't mean that they ONLY want north american coverage,
+    just mostly. But what I can do is either only include NA coverage, or all english coverage.
+    i think the best comprompise we can do is use the * wildcard to filter out all *.uk, *.fr, etc. websites. This will filter out sites that are not obviously 
+    North American, but we will still have sites like BBC News (which is English). 
+    This is probably the best way to get mostly get NA coverage without completely excluding other sources.
+    '''
     #print(query)
     response = get(query)
     response = response.json()
@@ -68,18 +71,20 @@ if __name__ == "__main__":
     #The topics that we want to explore
     taylor_swift_eras_tour = ['+Taylor Swift', 'The Eras Tour', 'The Eras Tour Concert Film']
 
-    taylor_swift_drama = ['+Taylor Swift', 'Kanye West', 'Katy Perry', 'Scooter Braun']
+    #taylor_swift_drama = ['+Taylor Swift', 'Kanye West', 'Katy Perry', 'Scooter Braun']
+    #she has no recent drama, and the people listed are drama from a long time ago, thus we don't get any articles related to their beef.
+    #taylor_swift_relationships = ['+Taylor Swift', 'Calvin Harris', 'Joe Alwyn', 'Travis Kelce', 'Tom Hiddleston', 'Harry Styles']
+    #the only recent boyfriend she has is Travis Kelce, I haven't seen a single Article about the other people, so we can just ignore them
+    taylor_swift_relationships = ['+Taylor Swift', '+Travis Kelce']
 
-    taylor_swift_relationships = ['+Taylor Swift', 'Calvin Harris', 'Joe Alwyn', 'Travis Kelce', 'Tom Hiddleston', 'Harry Styles']
-
-    taylor_swift_acting = ['+Taylor Swift', 'Movie', 'Acting']
+    #taylor_swift_acting = ['+Taylor Swift', 'Movie', 'Acting', 'Film']
 
     #a problem with these keywords is that they're album names, but might get misinterpreted for something else
-    taylor_swift_music = ['+Taylor Swift', 'music', 'discography', 'Midnights', 'Speak Now', '1989', 'Lover', 'repuration', 'Fearless', 'Red', 'Folklore', 'Evermore', 'concert']
+    #taylor_swift_music = ['+Taylor Swift', 'music', 'discography', 'Midnights', 'Speak Now', '1989', 'Lover', 'repuration', 'Fearless', 'Red', 'Folklore', 'Evermore', 'concert']
 
-    taylor_swift_bio = ['+Taylor Swift', 'Career', 'Legacy', 'Cultural Status', 'image', 'Early Life', 'Biography']
+    #taylor_swift_bio = ['+Taylor Swift', 'Career', 'Legacy', 'Cultural Status', 'image', 'Early Life', 'Biography']
 
-    taylor_swift_politics = ['+Taylor Swift', 'Politics', 'Feminism', 'Activism', 'Democrat', "LGBTQ", 'Advocacy', 'COVID-19', 'Social Media', 'Philantropy']
+    #taylor_swift_politics = ['+Taylor Swift', 'Politics', 'Feminism', 'Activism', 'Democrat', "LGBTQ", 'Advocacy', 'COVID-19', 'Social Media', 'Philantropy']
 
     key = get_APIKEY()
 
@@ -87,7 +92,7 @@ if __name__ == "__main__":
 
     #with open("res.json", "w") as fp:
     #    json.dump(res, fp, indent=4)
-
+    '''
     research_list = [(taylor_swift_eras_tour, "Eras_Tour") \
                      , (taylor_swift_drama, "Drama") \
                      ,(taylor_swift_acting, "Movies") \
@@ -99,13 +104,17 @@ if __name__ == "__main__":
 
     for research_tuple in research_list:
         fetch_latest_news(key, research_tuple[0], research_tuple[1])
+    '''
+    research_list = [(taylor_swift_eras_tour, "Eras_Tour"),(taylor_swift_relationships, "Relationships")]
+
+    for research_tuple in research_list:
+        fetch_latest_news(key, research_tuple[0], research_tuple[1])
 
     '''
-    - We haven't limited our search to North America. Not sure how we can do this programmatically, since there is no country/region parameter for the 
-    query string. Best we can do is to use the language parameter and set it to English (en). I think we'll have to filter articles that aren't from North
-    America manually.
-    - The same article can appear in multiple response JSONs, we have to filter them out.
-    - For sampling, we can use the  sortBy= parameter to get the most relevant stuff, and then do systemic sampling by ID. (adding them one by one to our final csv/tsv file).
+    - We haven't completely limited our search to North America. But we made sure that the articles are in English, the main language spoken in Canada and in the US,
+    and we excluded obvious domains like *.fr, *.uk, etc.
+    - The same article can appear in multiple response JSONs, I made sure to filter them out.
+    - For sampling, we used the  sortBy= parameter to get the most relevant stuff, and then did systemic sampling by ID. (adding them one by one to our final csv/tsv file).
     - the JSON responses will have different sizes, we'll have to make sure the number of articles selected from each is proportionate to their size.
     I don't see how picking randomly from each JSON will increase the representativeness of our sample
     '''
