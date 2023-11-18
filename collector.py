@@ -105,14 +105,15 @@ if __name__ == "__main__":
     for research_tuple in research_list:
         fetch_latest_news(key, research_tuple[0], research_tuple[1])
     '''
-    research_list = [(taylor_swift_eras_tour, "Eras_Tour"),(taylor_swift_relationships, "Relationships")]
+    research_list = [(taylor_swift_eras_tour, "Eras_Tour1"),(taylor_swift_relationships, "Relationships1")]
 
     for research_tuple in research_list:
         fetch_latest_news(key, research_tuple[0], research_tuple[1])
 
     '''
     - We haven't completely limited our search to North America. But we made sure that the articles are in English, the main language spoken in Canada and in the US,
-    and we excluded obvious domains like *.fr, *.uk, etc.
+    and we excluded obvious domains like *.fr, *.uk, etc. => BBC.co.uk is included, so im not sure this worked properly. The response objects looked fine so idk.
+    If we really want to limit coverage from outside NA, we can use domains= parameter.
     - The same article can appear in multiple response JSONs, I made sure to filter them out.
     - For sampling, we used the  sortBy= parameter to get the most relevant stuff, and then did systemic sampling by ID. (adding them one by one to our final csv/tsv file).
     - the JSON responses will have different sizes, we'll have to make sure the number of articles selected from each is proportionate to their size.
