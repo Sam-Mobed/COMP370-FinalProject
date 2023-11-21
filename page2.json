@@ -46,19 +46,6 @@
                 "id": null,
                 "name": "Rolling Stone"
             },
-            "author": "Rolling Stone",
-            "title": "Taylor Swift, Brent Faiyaz, Mr. Eazi, and All the Songs You Need to Know This Week",
-            "description": "Looking for the week's best new music? Check out our Songs You Need to Know playlist",
-            "url": "https://www.rollingstone.com/music/music-features/taylor-swift-brent-faiyaz-mr-eazi-songs-you-need-to-know-1234863993/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/10/taylor-swift-1989-syntk.jpg?crop=0px%2C11px%2C1800px%2C1014px&resize=1600%2C900",
-            "publishedAt": "2023-10-27T17:24:40Z",
-            "content": "Welcome to our weekly\u00a0rundown\u00a0of the\u00a0best new music \u2014 featuring big singles, key tracks from our favorite albums, and more.\u00a0This week, Taylor Swift subverts sexism with a sultry 1989 vault track, Bre\u2026 [+1765 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
             "author": "Ethan Millman",
             "title": "Taylor Swift Takes 8 of the Top 10 on the Hot 100",
             "description": "Swift holds most of the chart following the release of 1989 (Taylor's Version), with \"Is It Over Now?\" dethroning \"Cruel Summer\" for Number One",
@@ -66,6 +53,19 @@
             "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/11/Swift-hot-100-top-10.jpg?crop=0px%2C49px%2C1800px%2C1014px&resize=1600%2C900",
             "publishedAt": "2023-11-06T19:25:49Z",
             "content": "Taylor Swift\u2018s 1989 (Taylor\u2019s Version) opened with one of the most dominant weeks on the charts in years, as the album takes seven of the top 10 slots on Billboard\u2019s Hot 100, the publication announce\u2026 [+2490 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Rolling Stone",
+            "title": "Taylor Swift, Brent Faiyaz, Mr. Eazi, and All the Songs You Need to Know This Week",
+            "description": "Looking for the week's best new music? Check out our Songs You Need to Know playlist",
+            "url": "https://www.rollingstone.com/music/music-features/taylor-swift-brent-faiyaz-mr-eazi-songs-you-need-to-know-1234863993/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/10/taylor-swift-1989-syntk.jpg?crop=0px%2C11px%2C1800px%2C1014px&resize=1600%2C900",
+            "publishedAt": "2023-10-27T17:24:40Z",
+            "content": "Welcome to our weekly\u00a0rundown\u00a0of the\u00a0best new music \u2014 featuring big singles, key tracks from our favorite albums, and more.\u00a0This week, Taylor Swift subverts sexism with a sultry 1989 vault track, Bre\u2026 [+1765 chars]"
         },
         {
             "source": {
@@ -527,19 +527,6 @@
                 "id": null,
                 "name": "Forbes"
             },
-            "author": "Joan Verdon, Senior Contributor, \n Joan Verdon, Senior Contributor\n https://www.forbes.com/sites/joanverdon/",
-            "title": "How Shopify\u2019s Celebrity Partnerships Are Changing E-Commerce",
-            "description": "Drake, Bad Bunny, MrBeast and Taylor Swift have been using Shopify stores and the Shopify app to redefine retail.",
-            "url": "https://www.forbes.com/sites/joanverdon/2023/11/13/how-shopifys-celebrity-partnerships-are-changing-e-commerce/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6546ad781a1f922732c54984/0x0.jpg?format=jpg&crop=1165,874,x0,y110,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2023-11-13T12:00:00Z",
-            "content": "Shopify partnered with Drake Related, the e-commerce store of recording artist Drake, to give fans ... [+] access to newly released merchandise, by downloading a QR code connecting them to Drake's Sh\u2026 [+5220 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
             "author": "Alex York, Forbes Staff, \n Alex York, Forbes Staff\n https://www.forbes.com/sites/alexyork/",
             "title": "How These Under 30 Cofounders Are Taking Part In The Women\u2019s Health Revolution",
             "description": "The Future of Women's Health and a Taylor Swift-Themed Cruise, plus more from the Forbes 30 Under 30 community.",
@@ -547,6 +534,19 @@
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6556900a9950b99d306e702b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2023-11-17T13:00:00Z",
             "content": "The standard of care is so far from where it needs to be on vaginal health that really anyone with a vagina can benefit from innovative vaginal healthcare,\" says Bruzek. \r\ncourtesy of Evvy\r\nThink thi\u2026 [+6998 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Joan Verdon, Senior Contributor, \n Joan Verdon, Senior Contributor\n https://www.forbes.com/sites/joanverdon/",
+            "title": "How Shopify\u2019s Celebrity Partnerships Are Changing E-Commerce",
+            "description": "Drake, Bad Bunny, MrBeast and Taylor Swift have been using Shopify stores and the Shopify app to redefine retail.",
+            "url": "https://www.forbes.com/sites/joanverdon/2023/11/13/how-shopifys-celebrity-partnerships-are-changing-e-commerce/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6546ad781a1f922732c54984/0x0.jpg?format=jpg&crop=1165,874,x0,y110,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2023-11-13T12:00:00Z",
+            "content": "Shopify partnered with Drake Related, the e-commerce store of recording artist Drake, to give fans ... [+] access to newly released merchandise, by downloading a QR code connecting them to Drake's Sh\u2026 [+5220 chars]"
         },
         {
             "source": {
@@ -788,6 +788,19 @@
                 "name": "Forbes"
             },
             "author": "Hugh McIntyre, Senior Contributor, \n Hugh McIntyre, Senior Contributor\n https://www.forbes.com/sites/hughmcintyre/",
+            "title": "Taylor Swift, SZA And Jon Batiste: These Are The Album Of The Year Grammy Nominees",
+            "description": "There aren't many shocks in the Album of the Year category at this year's Grammys, with names like Taylor Swift, SZA and Olivia Rodrigo leading the charge.",
+            "url": "https://www.forbes.com/sites/hughmcintyre/2023/11/10/taylor-swift-sza-and-jon-batiste-these-are-the-album-of-the-year-grammy-nominees/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/654e4d8eef38ce08be99a632/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2023-11-10T16:16:26Z",
+            "content": "LOS ANGELES - MARCH 14: Taylor Swift wins the award for Album of the Year at THE 63rd ANNUAL GRAMMY\u00ae ... [+] AWARDS, broadcast live from the STAPLES Center in Los Angeles, Sunday, March 14, 2021 (8:0\u2026 [+6955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Hugh McIntyre, Senior Contributor, \n Hugh McIntyre, Senior Contributor\n https://www.forbes.com/sites/hughmcintyre/",
             "title": "Taylor Swift Claims Half Of All The Top 40 Songs In America This Week",
             "description": "Taylor Swift charts 20 top 40 hits on the Hot 100 this week as she invades the ranking with songs from her new album 1989 (Taylor's Version).",
             "url": "https://www.forbes.com/sites/hughmcintyre/2023/11/07/taylor-swift-claims-half-of-all-the-top-40-songs-in-america-this-week/",
@@ -807,19 +820,6 @@
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/654932f5a7eb236984e3f820/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2023-11-09T15:00:00Z",
             "content": "LOS ANGELES, CALIFORNIA - FEBRUARY 05: Taylor Swift attends the 65th GRAMMY Awards on February 05, ... [+] 2023 in Los Angeles, California. (Photo by John Shearer/Getty Images for The Recording Acade\u2026 [+2690 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Hugh McIntyre, Senior Contributor, \n Hugh McIntyre, Senior Contributor\n https://www.forbes.com/sites/hughmcintyre/",
-            "title": "Taylor Swift, SZA And Jon Batiste: These Are The Album Of The Year Grammy Nominees",
-            "description": "There aren't many shocks in the Album of the Year category at this year's Grammys, with names like Taylor Swift, SZA and Olivia Rodrigo leading the charge.",
-            "url": "https://www.forbes.com/sites/hughmcintyre/2023/11/10/taylor-swift-sza-and-jon-batiste-these-are-the-album-of-the-year-grammy-nominees/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/654e4d8eef38ce08be99a632/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2023-11-10T16:16:26Z",
-            "content": "LOS ANGELES - MARCH 14: Taylor Swift wins the award for Album of the Year at THE 63rd ANNUAL GRAMMY\u00ae ... [+] AWARDS, broadcast live from the STAPLES Center in Los Angeles, Sunday, March 14, 2021 (8:0\u2026 [+6955 chars]"
         },
         {
             "source": {
@@ -879,12 +879,12 @@
                 "name": "Forbes"
             },
             "author": "Hugh McIntyre, Senior Contributor, \n Hugh McIntyre, Senior Contributor\n https://www.forbes.com/sites/hughmcintyre/",
-            "title": "Taylor Swift Ties The Record For The Most Album Of The Year Grammy Noms Among Women",
-            "description": "Taylor Swift collects her sixth Album of the Year Grammy nomination, tying Barbra Streisand for the most nods among women ever.",
-            "url": "https://www.forbes.com/sites/hughmcintyre/2023/11/10/taylor-swift-ties-the-record-for-the-most-album-of-the-year-grammy-noms-among-women/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/60c92bfa2a7d51dfe0764df6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2023-11-10T16:16:03Z",
-            "content": "TOPSHOT - Taylor Swift poses in the press room at the The 58th GRAMMY Awards at Staples Center on ... [+] February 15, 2016 in Los Angeles, California. AFP PHOTO/MARK RALSTON / AFP PHOTO / MARK RALST\u2026 [+1781 chars]"
+            "title": "Taylor Swift Breaks The Record For The Most Song Of The Year Grammy Nominations",
+            "description": "\"Anti-Hero\" gives Taylor Swift her seventh Song of the Year Grammy nomination, which breaks her tie with Paul McCartney and Lionel Richie for the most ever.",
+            "url": "https://www.forbes.com/sites/hughmcintyre/2023/11/10/taylor-swift-breaks-the-record-for-the-most-song-of-the-year-grammy-nominations/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/60ed9c8a0fbd515e45638557/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2023-11-10T16:10:23Z",
+            "content": "NEWARK, NEW JERSEY - AUGUST 26: Taylor Swift attends the 2019 MTV Video Music Awards at Prudential ... [+] Center on August 26, 2019 in Newark, New Jersey. (Photo by Jamie McCarthy/Getty Images for M\u2026 [+2462 chars]"
         },
         {
             "source": {
@@ -892,12 +892,12 @@
                 "name": "Forbes"
             },
             "author": "Hugh McIntyre, Senior Contributor, \n Hugh McIntyre, Senior Contributor\n https://www.forbes.com/sites/hughmcintyre/",
-            "title": "Taylor Swift Breaks The Record For The Most Song Of The Year Grammy Nominations",
-            "description": "\"Anti-Hero\" gives Taylor Swift her seventh Song of the Year Grammy nomination, which breaks her tie with Paul McCartney and Lionel Richie for the most ever.",
-            "url": "https://www.forbes.com/sites/hughmcintyre/2023/11/10/taylor-swift-breaks-the-record-for-the-most-song-of-the-year-grammy-nominations/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/60ed9c8a0fbd515e45638557/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2023-11-10T16:10:23Z",
-            "content": "NEWARK, NEW JERSEY - AUGUST 26: Taylor Swift attends the 2019 MTV Video Music Awards at Prudential ... [+] Center on August 26, 2019 in Newark, New Jersey. (Photo by Jamie McCarthy/Getty Images for M\u2026 [+2462 chars]"
+            "title": "Taylor Swift Ties The Record For The Most Album Of The Year Grammy Noms Among Women",
+            "description": "Taylor Swift collects her sixth Album of the Year Grammy nomination, tying Barbra Streisand for the most nods among women ever.",
+            "url": "https://www.forbes.com/sites/hughmcintyre/2023/11/10/taylor-swift-ties-the-record-for-the-most-album-of-the-year-grammy-noms-among-women/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/60c92bfa2a7d51dfe0764df6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2023-11-10T16:16:03Z",
+            "content": "TOPSHOT - Taylor Swift poses in the press room at the The 58th GRAMMY Awards at Staples Center on ... [+] February 15, 2016 in Los Angeles, California. AFP PHOTO/MARK RALSTON / AFP PHOTO / MARK RALST\u2026 [+1781 chars]"
         },
         {
             "source": {
@@ -1034,6 +1034,19 @@
                 "id": null,
                 "name": "Forbes"
             },
+            "author": "https://www.forbes.com/",
+            "title": "\"The Taylor Swift Effect Is Community\"- Dr. Marcus Collins, Marketing Professor At University Of Michigan",
+            "description": "Dr. Marcus Collins, a marketing professor at the University of Michigan and author of For the Culture, joins 'Forbes Talks' to discuss what Taylor Swift teaches us about influence.",
+            "url": "https://www.forbes.com/video/6340152042112/the-taylor-swift-effect-is-community-dr-marcus-collins-marketing-professor-at-university-of-michigan/",
+            "urlToImage": "https://imageio.forbes.com/i-forbesimg/media/video/2023/10/30/6340152042112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
+            "publishedAt": "2023-10-30T15:35:28Z",
+            "content": "Dr. Marcus Collins, a marketing professor at the University of Michigan and author of For the Culture, joins 'Forbes Talks' to discuss what Taylor Swift teaches us about influence."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
             "author": "Hugh McIntyre, Senior Contributor, \n Hugh McIntyre, Senior Contributor\n https://www.forbes.com/sites/hughmcintyre/",
             "title": "2024 Grammy Predictions: Miley Cyrus, Morgan Wallen And Doja Cat For Record Of The Year",
             "description": "Miley Cyrus may finally win her Grammy, and in one of the top categories: Record of the Year. She may be up against stars like Taylor Swift, SZA and Morgan Wallen.",
@@ -1054,19 +1067,6 @@
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/654e8f63c8a7a5bd67dcac7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2023-11-13T13:00:00Z",
             "content": "CLEVELAND, OHIO - OCTOBER 30:Taylor Swift performs onstage during the 36th Annual Rock &amp; Roll Hall ... [+] Of Fame Induction Ceremony at Rocket Mortgage Fieldhouse on October 30, 2021 in Clevelan\u2026 [+2455 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "https://www.forbes.com/",
-            "title": "\"The Taylor Swift Effect Is Community\"- Dr. Marcus Collins, Marketing Professor At University Of Michigan",
-            "description": "Dr. Marcus Collins, a marketing professor at the University of Michigan and author of For the Culture, joins 'Forbes Talks' to discuss what Taylor Swift teaches us about influence.",
-            "url": "https://www.forbes.com/video/6340152042112/the-taylor-swift-effect-is-community-dr-marcus-collins-marketing-professor-at-university-of-michigan/",
-            "urlToImage": "https://imageio.forbes.com/i-forbesimg/media/video/2023/10/30/6340152042112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
-            "publishedAt": "2023-10-30T15:35:28Z",
-            "content": "Dr. Marcus Collins, a marketing professor at the University of Michigan and author of For the Culture, joins 'Forbes Talks' to discuss what Taylor Swift teaches us about influence."
         },
         {
             "source": {
@@ -1138,6 +1138,19 @@
                 "id": null,
                 "name": "Us Weekly"
             },
+            "author": "Nicole Massabrook",
+            "title": "Travis Kelce Took Taylor Swift on a Private Dinner Date in a Rolls Royce",
+            "description": "Travis Kelce and Taylor Swift were spotted enjoying a romantic dinner in Kansas City on Monday, October 23. The couple were photographed at Argentine steakhouse Piropos near his Missouri home, according to photos obtained by the Daily Mail. They arrived in st\u2026",
+            "url": "https://www.usmagazine.com/celebrity-news/news/travis-kelce-took-taylor-swift-on-a-dinner-date-in-a-rolls-royce/#article",
+            "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2023/10/Travis-Kelce-Took-Taylor-Swift-to-a-Dinner-Date-in-a-Rolls-Royce.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all",
+            "publishedAt": "2023-10-24T15:38:14Z",
+            "content": "Travis Kelce and Taylor SwiftFilmMagic; Getty Images\r\nTravis Kelce and Taylor Swiftwere spotted enjoying a romantic dinner in Kansas City on Monday, October 23.\r\nThe couple were photographed at Argen\u2026 [+3033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Us Weekly"
+            },
             "author": "Miranda Siwak",
             "title": "Does Travis Kelce Have a Photo of Taylor Swift as His Phone Wallpaper?",
             "description": "Did Travis Kelce fill in the \u201cblank space\u201d of his iPhone wallpaper with a photo of Taylor Swift? Kelce, 34, stepped out at the first game of the 2023 World Series on Friday, October 27, where he was caught on camera dancing to Swift\u2019s \u201cShake It Off.\u201d As the K\u2026",
@@ -1145,19 +1158,6 @@
             "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2023/10/does-travis-kelce-have-taylor-swift-photo-as-his-phone-wallpaper.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all",
             "publishedAt": "2023-10-29T17:08:05Z",
             "content": "Travis Kelce at the World Series with an inset of Taylor Swift.Getty Images (2)\r\nDid Travis Kelce fill in the blank space of his iPhone wallpaper with a photo of Taylor Swift?\r\nKelce, 34, stepped out\u2026 [+2721 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Us Weekly"
-            },
-            "author": "Grace Riley",
-            "title": "Travis Kelce Laughs at \u2018Golden\u2019 Halloween Costumes of Him and Taylor Swift",
-            "description": "Getty Images (2) Travis Kelce can\u2019t get enough of people dressing up like him and Taylor Swift for Halloween. Travis, 34, reacted to singer Jax\u2019s hilarious \u201cOn the Map\u201d costume, which referenced the phrase that took over social media as fans debated whether t\u2026",
-            "url": "https://www.usmagazine.com/celebrity-news/news/travis-kelce-laughs-at-halloween-costume-of-him-and-taylor-swift/#article",
-            "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2023/11/Travis-Kelce-Laughs-at-Fans-Dressing-Up-as-Him-and-Taylor-Swift-for-Halloween-That-Was-Golden.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all",
-            "publishedAt": "2023-11-01T18:40:52Z",
-            "content": "Getty Images (2)\r\nTravis Kelce cant get enough of people dressing up like him and Taylor Swiftfor Halloween.\r\nTravis, 34, reacted to singer Jaxs hilarious On the Map costume, which referenced the phr\u2026 [+2722 chars]"
         },
         {
             "source": {
@@ -1190,13 +1190,13 @@
                 "id": null,
                 "name": "Us Weekly"
             },
-            "author": "Nicole Massabrook",
-            "title": "Travis Kelce Took Taylor Swift on a Private Dinner Date in a Rolls Royce",
-            "description": "Travis Kelce and Taylor Swift were spotted enjoying a romantic dinner in Kansas City on Monday, October 23. The couple were photographed at Argentine steakhouse Piropos near his Missouri home, according to photos obtained by the Daily Mail. They arrived in st\u2026",
-            "url": "https://www.usmagazine.com/celebrity-news/news/travis-kelce-took-taylor-swift-on-a-dinner-date-in-a-rolls-royce/#article",
-            "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2023/10/Travis-Kelce-Took-Taylor-Swift-to-a-Dinner-Date-in-a-Rolls-Royce.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all",
-            "publishedAt": "2023-10-24T15:38:14Z",
-            "content": "Travis Kelce and Taylor SwiftFilmMagic; Getty Images\r\nTravis Kelce and Taylor Swiftwere spotted enjoying a romantic dinner in Kansas City on Monday, October 23.\r\nThe couple were photographed at Argen\u2026 [+3033 chars]"
+            "author": "Grace Riley",
+            "title": "Travis Kelce Laughs at \u2018Golden\u2019 Halloween Costumes of Him and Taylor Swift",
+            "description": "Getty Images (2) Travis Kelce can\u2019t get enough of people dressing up like him and Taylor Swift for Halloween. Travis, 34, reacted to singer Jax\u2019s hilarious \u201cOn the Map\u201d costume, which referenced the phrase that took over social media as fans debated whether t\u2026",
+            "url": "https://www.usmagazine.com/celebrity-news/news/travis-kelce-laughs-at-halloween-costume-of-him-and-taylor-swift/#article",
+            "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2023/11/Travis-Kelce-Laughs-at-Fans-Dressing-Up-as-Him-and-Taylor-Swift-for-Halloween-That-Was-Golden.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all",
+            "publishedAt": "2023-11-01T18:40:52Z",
+            "content": "Getty Images (2)\r\nTravis Kelce cant get enough of people dressing up like him and Taylor Swiftfor Halloween.\r\nTravis, 34, reacted to singer Jaxs hilarious On the Map costume, which referenced the phr\u2026 [+2722 chars]"
         },
         {
             "source": {
@@ -1242,6 +1242,19 @@
                 "id": null,
                 "name": "Us Weekly"
             },
+            "author": "Shelby Stivale",
+            "title": "Taylor Swift and Travis Kelce Might Be Another Sports Couple for Halloween",
+            "description": "Taylor Swift might just be channeling her inner Posh Spice for Halloween. \u201cThere have been talks\u201d about Swift, 33, and Travis Kelce \u201cdressing up in costume as the Beckhams,\u201d a source exclusively tells Us Weekly. Ahead of the holiday, Swift changed her travel \u2026",
+            "url": "https://www.usmagazine.com/celebrity-news/news/taylor-swift-travis-kelce-considering-beckhams-halloween-costume/#article",
+            "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2023/10/Taylor-Swift-and-Travis-Kelce-Are-in-Talks-About-Dressing-Up-as-the-Beckhams-for-Halloween-657.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all",
+            "publishedAt": "2023-10-31T16:37:43Z",
+            "content": "Taylor Swift and Travis Kelce.Gotham/GC Images\r\nTaylor Swift might just be channeling her inner Posh Spice for Halloween.\r\nThere have been talks about Swift, 33, and Travis Kelce dressing up in costu\u2026 [+2650 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Us Weekly"
+            },
             "author": "Miranda Siwak",
             "title": "Drew Barrymore Credits Taylor Swift and Travis Kelce as Dating Inspiration",
             "description": "Taylor Swift and Travis Kelce\u2019s budding romance has inspired a slew of Swifties to find love, including Drew Barrymore. \u201cThere\u2019s something about this human being that\u2019s kind of pushing people to express themselves in a very joyous positive way,\u201d Barrymore, 48\u2026",
@@ -1281,26 +1294,13 @@
                 "id": null,
                 "name": "Us Weekly"
             },
-            "author": "Shelby Stivale",
-            "title": "Taylor Swift and Travis Kelce Might Be Another Sports Couple for Halloween",
-            "description": "Taylor Swift might just be channeling her inner Posh Spice for Halloween. \u201cThere have been talks\u201d about Swift, 33, and Travis Kelce \u201cdressing up in costume as the Beckhams,\u201d a source exclusively tells Us Weekly. Ahead of the holiday, Swift changed her travel \u2026",
-            "url": "https://www.usmagazine.com/celebrity-news/news/taylor-swift-travis-kelce-considering-beckhams-halloween-costume/#article",
-            "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2023/10/Taylor-Swift-and-Travis-Kelce-Are-in-Talks-About-Dressing-Up-as-the-Beckhams-for-Halloween-657.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all",
-            "publishedAt": "2023-10-31T16:37:43Z",
-            "content": "Taylor Swift and Travis Kelce.Gotham/GC Images\r\nTaylor Swift might just be channeling her inner Posh Spice for Halloween.\r\nThere have been talks about Swift, 33, and Travis Kelce dressing up in costu\u2026 [+2650 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Us Weekly"
-            },
-            "author": "Ryan Hudgins",
-            "title": "CBS Shows Travis Kelce Is a Better Player With Taylor Swift in the Stands",
-            "description": "Looks like Travis Kelce may have found his good luck charm in Taylor Swift. The Kansas City Chief tight end, 34, has produced more than twice the yards received when Swift was in attendance, 34, according to a graphic shown by CBS during the Sunday, October 2\u2026",
-            "url": "https://www.usmagazine.com/celebrity-news/news/cbs-shows-travis-kelce-is-a-better-player-with-taylor-swift-in-stands/#article",
-            "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2023/10/CBS-Compares-Travis-Kelce-Performance-With-and-Without-Taylor-Swift.jpg?crop=0px%2C66px%2C1988px%2C1044px&resize=1200%2C630&quality=86&strip=all",
-            "publishedAt": "2023-10-23T00:32:00Z",
-            "content": "Travis Kelce and Taylor Swift at Arrowhead Stadium on October 22, 2023.David Eulitt/Getty Images\r\nLooks like Travis Kelce may have found his good luck charm in Taylor Swift.\r\nThe Kansas City Chief ti\u2026 [+3209 chars]"
+            "author": "Kaitlin Simpson",
+            "title": "Taylor Swift Heads to KC Early to Console Travis Kelce Before Halloween",
+            "description": "Taylor Swift is changing her plans so she can be by Travis Kelce\u2019s side after the Kansas City Chiefs\u2019 recent loss against the Denver Broncos. \u201cTaylor feels awful for Travis and knows he doesn\u2019t [take] losing lightly,\u201d a source exclusively tells Us Weekly. \u201cTa\u2026",
+            "url": "https://www.usmagazine.com/celebrity-news/news/taylor-swift-off-to-kansas-city-to-see-travis-kelce-before-halloween-plans/#article",
+            "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2023/10/Taylor-Swift-Heads-to-Kansas-City-a-Day-Early-to-Console-Travis-Kelce-Ahead-of-Halloween-Plans-614.jpg?crop=0px%2C0px%2C1331px%2C700px&resize=1200%2C630&quality=86&strip=all",
+            "publishedAt": "2023-10-30T21:11:43Z",
+            "content": "Taylor Swift.Raymond Hall/GC Images\r\nTaylor Swift is changing her plans so she can be by Travis Kelces side after the Kansas City Chiefs recent loss against the Denver Broncos.\r\nTaylor feels awful fo\u2026 [+2831 chars]"
         }
     ]
 }

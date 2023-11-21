@@ -850,19 +850,6 @@
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
-            },
-            "author": "Jaclyn Hendricks",
-            "title": "Travis Kelce reveals intimate details of how he actually connected with Taylor Swift",
-            "description": "Travis Kelce had \"Cupid\" on his side when it came to courting now-girlfriend Taylor Swift.",
-            "url": "https://nypost.com/2023/11/20/sports/travis-kelce-reveals-how-he-connected-with-taylor-swift/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/11/newspress-collage-q1mzz25sr-1700494671130.jpg?quality=75&strip=all&1700476731&w=1024",
-            "publishedAt": "2023-11-20T15:42:24Z",
-            "content": "Travis Kelce had \u201cCupid\u201d on his side when it came to courting now-girlfriend Taylor Swift.\r\nWhen discussing the beginnings of their romance in a new interview with WSJ. Magazine, the Chiefs tight end\u2026 [+926 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Us Weekly"
             },
             "author": "Paige Strout",
@@ -872,6 +859,19 @@
             "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2023/10/Travis-Kelces-Ex-Kayla-Nicole-Reflects-on-Prioritizing-Her-Mental-Health-After-Their-Major-Breakup-01.jpg?crop=0px%2C0px%2C1403px%2C737px&resize=1200%2C630&quality=86&strip=all",
             "publishedAt": "2023-10-25T14:51:55Z",
             "content": "Kayla Nicole seemingly shared insight into her split from Travis Kelce for the first time.\r\nIn an interview with People published on Tuesday, October 24, the sports journalist, 31, recalled going thr\u2026 [+3104 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jaclyn Hendricks",
+            "title": "Travis Kelce reveals intimate details of how he actually connected with Taylor Swift",
+            "description": "Travis Kelce had \"Cupid\" on his side when it came to courting now-girlfriend Taylor Swift.",
+            "url": "https://nypost.com/2023/11/20/sports/travis-kelce-reveals-how-he-connected-with-taylor-swift/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/11/newspress-collage-q1mzz25sr-1700494671130.jpg?quality=75&strip=all&1700476731&w=1024",
+            "publishedAt": "2023-11-20T15:42:24Z",
+            "content": "Travis Kelce had \u201cCupid\u201d on his side when it came to courting now-girlfriend Taylor Swift.\r\nWhen discussing the beginnings of their romance in a new interview with WSJ. Magazine, the Chiefs tight end\u2026 [+926 chars]"
         },
         {
             "source": {

@@ -62,7 +62,7 @@ def fetch_latest_news(api_key, news_keywords, news_sources):
     This is probably the best way to get mostly get NA coverage without completely excluding other sources.
     '''
     #print(query)
-    for i in range(1,6):
+    for i in range(1,8):
         query = f'{query_string}q={edited_keyword}&domains={news_sources}&sortBy=relevancy&page={i}&language=en&from={str(lookback)}&to={str(current_date)}&apiKey={api_key}'
         #print(query)
         #return
