@@ -32,7 +32,7 @@ def get_APIKEY():
 
 # make sure you surround phrases with ""
 # i'll also include the topic column for the saved data, but we'll probably have to change its values later
-def fetch_latest_news(api_key, news_keywords, topic, page_num):
+def fetch_latest_news(api_key, news_keywords, news_sources):
 
     current_date = datetime.date.today()
     lookback = datetime.date.today() - datetime.timedelta(31)
@@ -44,14 +44,16 @@ def fetch_latest_news(api_key, news_keywords, topic, page_num):
             edited_keyword.append('OR')
         if ' ' in news_keywords[i]:
             #phrases are sentences that contain whitespace, and they need to be surrounded by quotes in the query string
-            news_keywords[i] = f'"{news_keywords[i]}"' 
+            news_keywords[i] = f'+"{news_keywords[i]}"' 
         edited_keyword.append(news_keywords[i])
     edited_keyword = ''.join(edited_keyword)
+
+    news_sources = ','.join(news_sources)
 
     #query = f'{query_string}q={edited_keyword}&sortBy=relevancy&excludeDomains=*.uk&language=en&from={str(lookback)}&to={str(current_date)}&apiKey={api_key}'
     #three changes I made, I used OR to join keywords, I set language=en and sorted by relevancy,
     #query = f'{query_string}q={edited_keyword}&sortBy=relevancy&excludeDomains=*.uk,*.fr,*.de,*.es,*.ru&language=en&from={str(lookback)}&to={str(current_date)}&apiKey={api_key}'
-    query = f'{query_string}q={edited_keyword}&sortBy=relevancy&excludeDomains=*.uk,*.fr,*.de,*.es,*.ru&page={page_num}&language=en&from={str(lookback)}&to={str(current_date)}&apiKey={api_key}'
+
     '''
     the media company says that they are especially concerned with North American coverage. this doesn't mean that they ONLY want north american coverage,
     just mostly. But what I can do is either only include NA coverage, or all english coverage.
@@ -60,23 +62,28 @@ def fetch_latest_news(api_key, news_keywords, topic, page_num):
     This is probably the best way to get mostly get NA coverage without completely excluding other sources.
     '''
     #print(query)
-    response = get(query)
-    response = response.json()
+    for i in range(1,6):
+        query = f'{query_string}q={edited_keyword}&domains={news_sources}&sortBy=relevancy&page={i}&language=en&from={str(lookback)}&to={str(current_date)}&apiKey={api_key}'
+        #print(query)
+        #return
+        response = get(query)
+        response = response.json()
 
-    #return response
-    with open(f"{topic}_{page_num}.json", "w") as fp:
-        json.dump(response, fp, indent=4)
+        #return response
+        with open(f"page{i}.json", "w") as fp:
+            json.dump(response, fp, indent=4)
+        
     
 
 if __name__ == "__main__":
     #The topics that we want to explore
-    taylor_swift_eras_tour = ['+Taylor Swift', 'The Eras Tour', 'The Eras Tour Concert Film']
+    #taylor_swift_eras_tour = ['Taylor Swift', 'The Eras Tour', 'The Eras Tour Concert Film']
 
     #taylor_swift_drama = ['+Taylor Swift', 'Kanye West', 'Katy Perry', 'Scooter Braun']
     #she has no recent drama, and the people listed are drama from a long time ago, thus we don't get any articles related to their beef.
     #taylor_swift_relationships = ['+Taylor Swift', 'Calvin Harris', 'Joe Alwyn', 'Travis Kelce', 'Tom Hiddleston', 'Harry Styles']
     #the only recent boyfriend she has is Travis Kelce, I haven't seen a single Article about the other people, so we can just ignore them
-    taylor_swift_relationships = ['+Taylor Swift', '+Travis Kelce']
+    #taylor_swift_relationships = ['Taylor Swift', 'Travis Kelce']
 
     #taylor_swift_acting = ['+Taylor Swift', 'Movie', 'Acting', 'Film']
 
@@ -106,11 +113,17 @@ if __name__ == "__main__":
     for research_tuple in research_list:
         fetch_latest_news(key, research_tuple[0], research_tuple[1])
     '''
-    research_list = [(taylor_swift_eras_tour, "Eras_Tour1"),(taylor_swift_relationships, "Relationships1")]
 
-    for research_tuple in research_list:
-        for i in range(1,6):
-            fetch_latest_news(key, research_tuple[0], research_tuple[1], i)
+    final_keywords = ['Taylor Swift', 'The Eras Tour', 'The Eras Tour Concert Film', 'Travis Kelce']
+    news_outlets = ['businessinsider.com', 'rollingstone.com', 'polygon.com', 'time.com', 'slashfilm.com', 'huffpost.com' \
+                    'avclub.com', 'newyorker.com', 'buzzfeed.com', 'cnn.com', 'abcnews.go.com', 'people.com' \
+                        'tmz.com', 'chicagotribune.com', 'forbes.com', 'nbcnews.com', 'theatlantic.com', 'politico.com' \
+                            'foxnews.com', 'indiewire.com', 'theverge.com', 'foxbusiness.com', 'espn.com', 'variety.com' \
+                                'appleinsider.com', 'usmagazine.com', 'latimes.com', 'voanews.com', 'thecut.com', 'bostonglobe.com' \
+                                    'npr.org', 'cnet.com', 'nypost.com', 'cnbc.com']
+
+
+    fetch_latest_news(key, final_keywords, news_outlets)
 
     '''
     - We haven't completely limited our search to North America. But we made sure that the articles are in English, the main language spoken in Canada and in the US,
