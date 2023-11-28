@@ -58,6 +58,6 @@ if __name__ == "__main__":
     #collect_posts(outfile,jsonfile1)
 
     #I used to have all of these inside the same folder, I moved them, these have to be edited to have their proper path
-    json_list = ['page1.json','page2.json','page3.json','page4.json','page5.json','page6.json','page7.json']
+    json_list = ['page1.json','page2.json','page3.json','page4.json','page5.json']
 
     add_to_excel(json_list, outfile)
