@@ -62,8 +62,9 @@ def fetch_latest_news(api_key, news_keywords, news_sources):
     This is probably the best way to get mostly get NA coverage without completely excluding other sources.
     '''
     #print(query)
-    for i in range(1,8):
-        query = f'{query_string}q={edited_keyword}&domains={news_sources}&sortBy=relevancy&page={i}&language=en&from={str(lookback)}&to={str(current_date)}&apiKey={api_key}'
+    for i in range(1,7):
+        #query = f'{query_string}q={edited_keyword}&domains={news_sources}&sortBy=relevancy&page={i}&language=en&from={str(lookback)}&to={str(current_date)}&apiKey={api_key}' #this is the og query string, only consider this one.
+        query = f'{query_string}q={edited_keyword}&domains={news_sources}&sortBy=publishedAt&page={i}&language=en&from={str(lookback)}&to={str(current_date)}&apiKey={api_key}'
         #print(query)
         #return
         response = get(query)
@@ -114,7 +115,8 @@ if __name__ == "__main__":
         fetch_latest_news(key, research_tuple[0], research_tuple[1])
     '''
 
-    final_keywords = ['Taylor Swift', 'The Eras Tour', 'The Eras Tour Concert Film', 'Travis Kelce']
+    #final_keywords = ['Taylor Swift', 'The Eras Tour', 'The Eras Tour Concert Film', 'Travis Kelce']
+    final_keywords = ['Taylor Swift']
     news_outlets = ['businessinsider.com', 'rollingstone.com', 'polygon.com', 'time.com', 'slashfilm.com', 'huffpost.com' \
                     'avclub.com', 'newyorker.com', 'buzzfeed.com', 'cnn.com', 'abcnews.go.com', 'people.com' \
                         'tmz.com', 'chicagotribune.com', 'forbes.com', 'nbcnews.com', 'theatlantic.com', 'politico.com' \
