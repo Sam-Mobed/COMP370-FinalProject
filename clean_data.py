@@ -37,4 +37,4 @@ def cleanup_code():
     #df.to_excel("FINAL_DATA.xlsx", index=False)
 
 if __name__ == "__main__":
-    pass
+    cleanup_code()
